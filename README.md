@@ -231,7 +231,8 @@ My goal here is to build scalable, reliable, and maintainable data solutions tha
 <br>
 <br>
 
-
+<div align="center">
+  
 Thanks for visiting my Profile! 
 
 
@@ -247,6 +248,7 @@ If you'd like to connect, collaborate, or just say hello, feel free to reach out
 
 Looking forward to hearing from you!
 
+</div>
 
 
 
