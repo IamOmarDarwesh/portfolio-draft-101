@@ -10,7 +10,9 @@ I'm Omar Darwesh.
 
 I'm a Computer Science postgraduate with an analytical mindset and enthusiasm for **Data Analysis**, **Analytics Engineering**, and **Data Engineering**.
 
----
+<br>
+<br>
+<br>
 
 ## Technical Experience
 <br>
@@ -127,6 +129,8 @@ A few examples of the type of visualizations I created are like these:
 
 <br>
 <br>
+<br>
+
 
 I know what you're thinking right now. You wanna see a couple of interactive dashboard/report samples.
 
@@ -141,5 +145,89 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 - [Visualizing the Currents of Change — Part 5](https://app.powerbi.com/view?r=eyJrIjoiZjFhMmI0OWEtMWU5Yi00YmE0LWE1ZjAtZWJmNGJiNjQzYTQwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 ---
+
+## Projects
+
+
+
+
+
+
+---
+
+
+<br>
+<br>
+<br>
+
+##  Certifications
+
+I worked very hard to get certified by Microsoft in **Power BI** and **Azure Cloud**, aiming to deepen my knowledge and gain exposure to higher levels of use cases and data challenges at a more advanced level.
+
+
+### Microsoft Certified: Power BI Data Analyst:
+https://learn.microsoft.com/en-us/users/iamomardarwesh/credentials/40ec254c1199ceed
+
+![Power BI Certification](assets/imgs-Certifications/PL-300-Microsoft-Power-BI-Data-Analyst-certificate.png)
+
+
+
+### Microsoft Certified: Azure Data Fundamentals:
+https://learn.microsoft.com/en-us/users/iamomardarwesh/credentials/c10953d4ba96486c
+
+![Azure Data Fundamentals Certification](assets/imgs-Certifications/DP-900-Microsoft-Azure-Data-Fundamentals-certificate.png)
+
+<br>
+<br>
+<br>
+
+## Education
+
+I joined Cairo University to pursue an academic degree in Computer Science, driven by my ambition to deepen my technical expertise and grow as a professional in the field.
+
+
+### Cairo University  
+**Postgraduate Degree in Computer Science**  
+- *Graduated with **Excellent** Standing*  
+- **GPA:** 3.7 / 4.0  
+- *Graduation Year: 2025*
+
+
+<br>
+<br>
+<br>
+
+## Current Professional Development Focus
+
+You might be wondering what I’ve been up to lately.
+
+
+I’ve been focused on learning/mastering the **Modern Data Stack**, with hands-on experience using tools like **Fivetran**, **dbt**, **BigQuery**, and **Metabase**.
+
+
+
+
+[![Fivetran](assets/imgs-tools&technologies/Fivetran.svg)](https://www.fivetran.com/)
+[![Dbt](assets/imgs-tools&technologies/Dbt.svg)](https://www.getdbt.com/)
+[![BigQuery](assets/imgs-tools&technologies/bigquery.svg)](https://cloud.google.com/bigquery)
+[![Metabase](assets/imgs-tools&technologies/metabase.svg)](https://www.metabase.com/)
+
+
+
+My goal here is to build scalable, reliable, and maintainable data solutions that drive real business impact and support better decision-making and long-term growth — from automated pipelines to insightful dashboards.
+
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
 
 
