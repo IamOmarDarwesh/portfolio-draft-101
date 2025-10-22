@@ -1,3 +1,7 @@
+<br>
+<br>
+<br>
+
 Hi there 👋, 
 
 
@@ -39,6 +43,10 @@ I'm a Computer Science postgraduate with an analytical mindset and enthusiasm fo
 - Acquired advanced skills in **data cleaning**, **data analysis**, **visualization**, and **reporting**.
 - Worked with a variety of tools such as **SQL**, **Excel**, **Python**, **Power BI**, **Tableau**, and more.
 
+<br>
+<br>
+<br>
+
 ---
 
 On a typical day, I worked on developing deliverables such as presentations, dashboards, and reports using tools like **SQL**, **Python**, **Power BI**, **Excel**, **Google Sheets**, **PowerPoint**, **Figma**, and others as needed.
@@ -51,6 +59,9 @@ A key focus throughout was making insights easily understandable for **non-techn
 
 ---
 
+<br>
+<br>
+<br>
 
 In Jupyter Notebook, Google Colab & VS Code,
 
@@ -221,7 +232,11 @@ My goal here is to build scalable, reliable, and maintainable data solutions tha
 <br>
 
 
+Thanks for visiting my portfolio! If you'd like to connect, collaborate, or just say hello, feel free to reach out through any of the links below:
 
+
+
+Looking forward to hearing from you!
 
 
 
