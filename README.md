@@ -213,7 +213,7 @@ I joined Cairo University to pursue an academic degree in Computer Science, driv
 You might be wondering what I’ve been up to lately.
 
 
-I’ve been focused on learning/mastering the **Modern Data Stack**, with hands-on experience using tools like **Fivetran**, **dbt**, **BigQuery**, and **Metabase**.
+I’ve been focused on learning/mastering tools like **Fivetran**, **dbt**, **BigQuery**, and **Metabase** through hands-on experience.
 
 
 
