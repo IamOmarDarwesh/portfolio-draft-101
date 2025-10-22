@@ -236,15 +236,12 @@ My goal here is to build scalable, reliable, and maintainable data solutions tha
 Thanks for visiting my Profile! 
 
 
-If you'd like to connect, collaborate, or just say hello, feel free to reach out through any of the links below:
+If you like to connect, collaborate, or just say hello, feel free to reach out through any of the links below:
 
-
-[![GitHub](assets/imgs-icons-contacts/Github.svg)](https://github.com/yourusername)
-[![LinkedIn](assets/imgs-icons-contacts/Linkedin.svg)](https://linkedin.com/in/your-profile)
-[![Gmail](assets/imgs-icons-contacts/Gmail.svg)](mailto:your.email@example.com)
-[![WhatsApp](assets/imgs-icons-contacts/WhatsApp.svg)](https://wa.me/1234567890)
-
-
+[![GitHub](assets/imgs-icons-contacts/Github.svg)](https://github.com/IamOmarDarwesh)
+[![LinkedIn](assets/imgs-icons-contacts/Linkedin.svg)](https://www.linkedin.com/in/iamomardarwesh/)
+[![Gmail](assets/imgs-icons-contacts/Gmail.svg)](mailto:omarelsayeddarwesh@gmail.com)
+[![WhatsApp](assets/imgs-icons-contacts/WhatsApp.svg)](https://wa.me/201002949020)
 
 Looking forward to hearing from you!
 
