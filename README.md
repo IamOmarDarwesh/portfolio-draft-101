@@ -232,7 +232,16 @@ My goal here is to build scalable, reliable, and maintainable data solutions tha
 <br>
 
 
-Thanks for visiting my portfolio! If you'd like to connect, collaborate, or just say hello, feel free to reach out through any of the links below:
+Thanks for visiting my Profile! 
+
+
+If you'd like to connect, collaborate, or just say hello, feel free to reach out through any of the links below:
+
+
+[![GitHub](assets/imgs-icons-contacts/Github.svg)](https://github.com/yourusername)
+[![LinkedIn](assets/imgs-icons-contacts/Linkedin.svg)](https://linkedin.com/in/your-profile)
+[![Gmail](assets/imgs-icons-contacts/Gmail.svg)](mailto:your.email@example.com)
+[![WhatsApp](assets/imgs-icons-contacts/WhatsApp.svg)](https://wa.me/1234567890)
 
 
 
