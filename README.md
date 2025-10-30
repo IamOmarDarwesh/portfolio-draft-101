@@ -162,6 +162,34 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 
 
 
+### Call Center Performance Analytics Dashboard  
+
+> *Turning call center data into smarter decisions and happier customers.*  
+
+**Power BI | DAX | Excel | Figma**
+
+
+- Defined **business objectives, KPIs, and performance metrics** to guide strategic growth.  
+- **Sketched and designed** intuitive dashboard layouts for clear and digestible data visualization.  
+- Developed an **interactive Power BI dashboard** to analyze and optimize call center performance.  
+- Discovered that **40% of abandoned calls** occurred during two peak hours → optimized agent scheduling.  
+- Recommended **adjusting operating hours (earlier closing time) (6 PM → 5 PM)** to reduce cost and reallocate staff to peak demand.  
+
+- Identified low-resolution areas (Technical Support, Payment) and proposed **targeted training plans** for agents..  
+- Delivered **real-time analytics** on agent behavior, handle time, and customer satisfaction trends.  
+- Empowered stakeholders with **actionable insights and data-backed recommendations** for smarter, cost-efficient decision-making that improved service quality and operational efficiency.
+
+
+
+🔗 **View Full Project:** [Call Center Performance Analytics Dashboard](https://github.com/IamOmarDarwesh/Call-Center-Performance-Analytics-Dashboard)
+
+<br>
+<br>
+
+
+
+<br>
+<br>
 
 
 
