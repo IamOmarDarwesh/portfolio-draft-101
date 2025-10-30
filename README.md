@@ -174,8 +174,8 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 **Power BI | DAX | Excel | Figma**
 
 
-- Defined **business objectives, KPIs, and performance metrics** to guide strategic growth.  
-- **Sketched and designed** intuitive dashboard layouts for clear and digestible data visualization.  
+- Defined **business objectives, KPIs, and performance metrics** to guide strategic growth.
+- **Sketched and designed** intuitive dashboard layouts for clear and digestible data visualization.
 - Developed an **interactive Power BI dashboard** to analyze and optimize call center performance.  
 - Discovered that **40% of abandoned calls** occurred during two peak hours → optimized agent scheduling.  
 - Recommended **adjusting operating hours (earlier closing time) (6 PM → 5 PM)** to reduce cost and reallocate staff to peak demand.  
@@ -196,9 +196,10 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 
 **SQL Server | SSMS | Draw.io | Notion | GitHub**
 
-- **Explored and analyzed business requirements** to define objectives, data needs, project scope, and deliverables.  
-- **Planned and structured the project in Notion**, organizing all stages — from architecture design to validation and documentation — with clearly defined phases, timelines, and milestones.  
-- **Designed the data warehouse architecture** in Draw.io, following the **Medallion Architecture** (Bronze–Silver–Gold).  
+- **Explored and analyzed business requirements** to define objectives, data needs, project scope, and deliverables.
+- **Planned and structured the project in Notion**, organizing all stages — from architecture design to validation and documentation — with clearly defined phases, timelines, and milestones.
+- **Designed the data warehouse architecture** in Draw.io, following the **Medallion Architecture** (Bronze–Silver–Gold).
+  
 - **Built a modern SQL data warehouse** integrating data from **ERP and CRM systems** (CSV sources).  
 - **Implemented ETL pipelines** for data ingestion, validation, integration, and transformation across layered architecture.  
 - **Performed data profiling, quality checks, cleansing, and standardization** in the Silver layer to ensure accuracy, consistency, and reliability.  
