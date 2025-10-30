@@ -160,6 +160,7 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 
 ## Projects
 
+<br>
 
 
 ### Call Center Performance Analytics Dashboard  
@@ -186,6 +187,22 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 <br>
 <br>
 
+### Modern SQL Data Warehouse Building & Analytics  
+> *Building a scalable data foundation for smarter analytics and reliable insights through modern data architecture and SQL engineering.*
+
+**SQL Server | SSMS | Draw.io | Notion | GitHub**
+
+- **Explored and analyzed business requirements** to define objectives, data needs, project scope, and deliverables.  
+- **Planned and structured the project in Notion**, organizing all stages — from architecture design to validation and documentation — with clearly defined phases, timelines, and milestones.  
+- **Designed the data warehouse architecture** in Draw.io, following the **Medallion Architecture** (Bronze–Silver–Gold).  
+- **Built a modern SQL data warehouse** integrating data from **ERP and CRM systems** (CSV sources).  
+- **Implemented ETL pipelines** for data ingestion, validation, integration, and transformation across layered architecture.  
+- **Performed data profiling, quality checks, cleansing, and standardization** in the Silver layer to ensure accuracy, consistency, and reliability.  
+- **Modeled the Gold layer** using a **star schema** with fact and dimension tables optimized for analytics (business-ready data).  
+- **Developed SQL-based analytics** to uncover insights into sales trends, customer behavior, and product performance.  
+- **Used GitHub for version control and project tracking** to ensure transparency, traceability, and collaboration.  
+
+🔗 **View Full Project:** [Modern SQL Data Warehouse Building & Analytics](https://github.com/IamOmarDarwesh/Modern-SQL-Data-Warehouse-Building-Analytics)
 
 
 <br>
