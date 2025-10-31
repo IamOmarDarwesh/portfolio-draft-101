@@ -213,7 +213,22 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 <br>
 <br>
 
+### Problem-Solving and Transformative Data Analysis & Insights for Sustainable Solutions  
+> *Turning data into action —— using SQL, Power BI, and analytics to bring clean water, equity, and hope to millions.*  
 
+- Focused on **SDG 6.1.1 – Access to Safely Managed Drinking Water**, aiming to ensure clean and safe water for all in Maji Ndogo.  
+- Connected to a **MySQL database** and conducted deep **SQL-based exploration, cleaning, and transformation** of water source data directly in **Jupyter Notebook**, with light Python support for additional processing.
+  
+- Used **Power BI** to visualize insights and craft **data storytelling dashboards** for long-term impact tracking and transparent decision-making.  
+- Designed dashboard mockups and story flow in **Figma and PowerPoint** to align visuals with the analytical narrative.  
+- Discovered that only **33% (≈9M of 28M people)** had access to safe drinking water and identified urgent action zones.  
+- Revealed over **25,000 contaminated or failing water sources** requiring immediate attention and categorized issues by source type (tap, well, shared tap, river).  
+- Prioritized interventions for **most vulnerable regions**, implementing **quick temporary fixes** and **long-term sustainable solutions**.  
+- Exposed broader social issues like **crime risks** for women and children traveling long distances for water, emphasizing the human dimension of data.  
+- Delivered actionable insights that guided new wells, repairs, and equitable water distribution — improving quality of life and community resilience.  
+- Achieved a **transformative impact**, with **~18 million people** gaining access to clean water and living conditions improving significantly.  
+
+🔗 **View Full Project:** [Sustainable Data-Driven Solutions through Data Analysis of Water Crisis](https://github.com/IamOmarDarwesh/Sustainable-Data-Driven-Solutions-through-Data-Analysis-of-Water-Crisis)
 
 ---
 
