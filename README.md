@@ -216,6 +216,8 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 ### Problem-Solving and Transformative Data Analysis & Insights for Sustainable Solutions  
 > *Turning data into action —— using SQL, Power BI, and analytics to bring clean water, equity, and hope to millions.*  
 
+**SQL | MySQL | Python | Jupyter Notebook | Power BI | Figma | PowerPoint**
+
 - Focused on **SDG 6.1.1 – Access to Safely Managed Drinking Water**, aiming to ensure clean and safe water for all in Maji Ndogo.  
 - Connected to a **MySQL database** and conducted deep **SQL-based exploration, cleaning, and transformation** of water source data directly in **Jupyter Notebook**, with light Python support for additional processing.
   
