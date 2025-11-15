@@ -287,9 +287,12 @@ I’ve been focused on learning/mastering tools like **Fivetran**, **dbt**, **Bi
 
 [![Fivetran](assets/imgs-tools&technologies/Fivetran.svg)](https://www.fivetran.com/)
 [![Airbyte](assets/imgs-tools&technologies/airbyte.png)](https://www.airbyte.com/)
+
 [![Airflow](assets/imgs-tools&technologies/Airflow.png)](https://airflow.apache.org/)
+
 [![Dbt](assets/imgs-tools&technologies/Dbt.svg)](https://www.getdbt.com/)
 [![BigQuery](assets/imgs-tools&technologies/bigquery.svg)](https://cloud.google.com/bigquery)
+
 [![Metabase](assets/imgs-tools&technologies/metabase.svg)](https://www.metabase.com/)
 
 
