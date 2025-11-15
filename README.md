@@ -281,7 +281,7 @@ I joined Cairo University to pursue an academic degree in Computer Science, driv
 You might be wondering what I’ve been up to lately.
 
 
-I’ve been focused on learning/mastering tools like **Fivetran**, **dbt**, **BigQuery**, and **Metabase** through hands-on experience.
+I’ve been focused on learning/mastering tools like **Fivetran**, **Airbyte**, **Airflow**, **dbt**, **BigQuery**, and **Metabase** through hands-on experience.
 
 
 
