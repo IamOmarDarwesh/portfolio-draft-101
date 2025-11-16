@@ -1,6 +1,6 @@
 title: ""
 
-remote_theme: jekyllthemes/horace
+remote_theme: startbootstrap/startbootstrap-clean-blog-jekyll
 
 plugins:
   - jekyll-remote-theme
