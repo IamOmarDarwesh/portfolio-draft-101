@@ -1,9 +1,8 @@
 title: ""
 
 
+remote_theme: poole/lanyon
 
-
-remote_theme: bencentra/centrarium
 plugins:
   - jekyll-remote-theme
-  - jekyll-paginate
+
