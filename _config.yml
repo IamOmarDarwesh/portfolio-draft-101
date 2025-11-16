@@ -1,2 +1,10 @@
 title: ""
-remote_theme: mmistakes/so-simple-theme
+
+
+remote_theme: daviddarnes/alembic
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-remote-theme
