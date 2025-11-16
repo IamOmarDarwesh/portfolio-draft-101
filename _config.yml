@@ -1,8 +1,6 @@
 title: ""
 
-remote_theme: "tim‑obrien/singlepaged"   # replace with the correct GitHub repo
+remote_theme: "pmarsceill/so-simple-theme"
 plugins:
-  - jekyll‑remote‑theme
+  - jekyll-remote-theme
   - jekyll-feed
-
-
