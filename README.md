@@ -336,6 +336,31 @@ Looking forward to hearing from you!
 
 
 
+---
+
+
+<div align="center">
+  
+  <p>Thanks for visiting my Profile!</p>
+  <p>If you like to connect, collaborate, or just say hello, feel free to reach out through any of the links below:</p>
+
+  <!-- Icons with horizontal spacing -->
+  <a href="https://github.com/IamOmarDarwesh" style="margin: 0 8px;">
+    <img src="assets/imgs-icons-contacts/Github.svg" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/iamomardarwesh/" style="margin: 0 8px;">
+    <img src="assets/imgs-icons-contacts/Linkedin.svg" alt="LinkedIn" />
+  </a>
+  <a href="mailto:omarelsayeddarwesh@gmail.com" style="margin: 0 8px;">
+    <img src="assets/imgs-icons-contacts/Gmail.svg" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/201002949020" style="margin: 0 8px;">
+    <img src="assets/imgs-icons-contacts/WhatsApp.svg" alt="WhatsApp" />
+  </a>
+
+  <p>Looking forward to hearing from you!</p>
+
+</div>
 
 
 
