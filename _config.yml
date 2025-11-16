@@ -1,6 +1,6 @@
 title: ""
 
-remote_theme: jekyllthemes/long-haul
+remote_theme: jekyllthemes/horace
 
 plugins:
   - jekyll-remote-theme
