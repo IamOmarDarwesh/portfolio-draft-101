@@ -1,9 +1,0 @@
-# REQUIRED for GitHub Pages project sites
-baseurl: "/portfolio-draft-101"
-url: "https://iamomardarwesh.github.io"
-
-
-
-markdown: kramdown
-kramdown:
-  input: GFM
