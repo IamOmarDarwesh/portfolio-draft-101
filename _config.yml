@@ -1,6 +1,6 @@
 title: ""
 
-remote_theme: "daktilo/daktilo"
+remote_theme: "mmistakes/so-simple-theme"
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
