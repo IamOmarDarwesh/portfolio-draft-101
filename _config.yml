@@ -1,9 +1,9 @@
 title: ""
 
-theme: minimal-mistakes-jekyll
+remote_theme: jekyllthemes/simples
 
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
   - jekyll-seo-tag
 
 
