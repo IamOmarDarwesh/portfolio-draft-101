@@ -1,9 +1,9 @@
 title: ""
 
-remote_theme: startbootstrap/startbootstrap-clean-blog-jekyll
+theme: jekyll-theme-so-simple
 
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
   - jekyll-seo-tag
 
 
