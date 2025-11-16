@@ -1,9 +1,8 @@
 title: ""
 
 
-remote_theme: "pages-themes/[email protected]"
-plugins:
-  - jekyll-remote-theme
+remote_theme: jekyll-theme-tactile
+
 
 
 
