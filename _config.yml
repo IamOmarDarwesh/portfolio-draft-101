@@ -1,9 +1,10 @@
 title: ""
 
-remote_theme: poole/lanyon
+remote_theme: jekyllthemes/subtle
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
 
 
