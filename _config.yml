@@ -1,10 +1,8 @@
 title: ""
 
-remote_theme: "mmistakes/so-simple-theme"
+remote_theme: "benradford/slate-and-simple-jekyll-theme"
 plugins:
   - jekyll-remote-theme
-  - jekyll-seo-tag
-
 
 
 
