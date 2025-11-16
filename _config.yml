@@ -1,13 +1,11 @@
 title: ""
 
 
-theme: jekyll-theme-tactile
+remote_theme: "daviddarnes/garth"
 plugins:
-  - jekyll-remote-theme          # Required if using remote_theme
-  - jekyll-feed                  # Optional: RSS feed
-  - jekyll-seo-tag  
-
-
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 
 
 
