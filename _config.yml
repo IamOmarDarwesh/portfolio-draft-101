@@ -1,10 +1,9 @@
 title: ""
 
-remote_theme: jekyllthemes/subtle
+remote_theme: andrewbanchich/contrast-jekyll-theme
 
 plugins:
   - jekyll-remote-theme
-  - jekyll-seo-tag
 
 
 
