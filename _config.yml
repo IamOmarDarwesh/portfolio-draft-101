@@ -1,9 +1,7 @@
 title: ""
 
 
-remote_theme: amitmerchant1990/reverie
+remote_theme: andrewbanchich/forty-jekyll-theme
 
 plugins:
   - jekyll-remote-theme
-  - jekyll-paginate
-  - jekyll-seo-tag
