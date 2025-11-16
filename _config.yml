@@ -1,8 +1,9 @@
 title: ""
 
-remote_theme: "benradford/slate-and-simple-jekyll-theme"
+remote_theme: "millennial/millennial"  # hypothetical name – check repo
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
 
 
 
