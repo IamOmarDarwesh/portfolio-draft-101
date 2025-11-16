@@ -1,6 +1,6 @@
 title: ""
 
-remote_theme: "pmarsceill/so-simple-theme"
+remote_theme: "mattvh/joseph"
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
