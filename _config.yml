@@ -1,6 +1,6 @@
 title: ""
 
-remote_theme: "millennial/millennial"  # hypothetical name – check repo
+remote_theme: "LeNPaul/Millennial"   # correct GitHub repo :contentReference[oaicite:1]{index=1}  
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
