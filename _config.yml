@@ -1,8 +1,10 @@
 title: ""
 
 
+remote_theme: "theramiyer/typographical"
 plugins:
-  - jekyll-typogrify
+  - jekyll-remote-theme
+  - jekyll-paginate
 
 
 
