@@ -310,7 +310,7 @@ Thanks for visiting my Profile!
 
 If you like to connect, collaborate, or just say hello, feel free to reach out through any of the links below:
 
-[![GitHub](/portfolio-draft-101/assets/imgs-icons-contacts/Github.svg)](https://github.com/IamOmarDarwesh)
+[![GitHub](./assets/imgs-icons-contacts/Github.svg)](https://github.com/IamOmarDarwesh)
 [![LinkedIn](./assets/imgs-icons-contacts/Linkedin.svg)](https://www.linkedin.com/in/iamomardarwesh/)
 [![Gmail](./assets/imgs-icons-contacts/Gmail.svg)](mailto:omarelsayeddarwesh@gmail.com)
 [![WhatsApp](./assets/imgs-icons-contacts/WhatsApp.svg)](https://wa.me/201002949020)
@@ -326,3 +326,22 @@ Looking forward to hearing from you!
 [![WhatsApp]({{ site.baseurl }}/assets/imgs-icons-contacts/WhatsApp.svg)](https://wa.me/201002949020)
 
 
+---
+
+
+<div align="center">
+  
+Thanks for visiting my Profile!  
+
+If you like to connect, collaborate, or just say hello, feel free to reach out through any of the links below:
+
+[![GitHub](https://raw.githubusercontent.com/IamOmarDarwesh/portfolio-draft-101/main/assets/imgs-icons-contacts/Github.svg)](https://github.com/IamOmarDarwesh)
+[![LinkedIn](https://raw.githubusercontent.com/IamOmarDarwesh/portfolio-draft-101/main/assets/imgs-icons-contacts/Linkedin.svg)](https://www.linkedin.com/in/iamomardarwesh/)
+[![Gmail](https://raw.githubusercontent.com/IamOmarDarwesh/portfolio-draft-101/main/assets/imgs-icons-contacts/Gmail.svg)](mailto:omarelsayeddarwesh@gmail.com)
+[![WhatsApp](https://raw.githubusercontent.com/IamOmarDarwesh/portfolio-draft-101/main/assets/imgs-icons-contacts/WhatsApp.svg)](https://wa.me/201002949020)
+
+<br/>
+
+Looking forward to hearing from you!  
+
+</div>
