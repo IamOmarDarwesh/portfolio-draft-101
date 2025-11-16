@@ -3,4 +3,7 @@ title: ""
 
 
 
-remote_theme: johnotander/phantom
+remote_theme: bencentra/centrarium
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
