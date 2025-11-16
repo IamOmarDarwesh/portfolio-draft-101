@@ -332,8 +332,11 @@ If you like to connect, collaborate, or just say hello, feel free to reach out t
 
 
 [![GitHub]({{ site.baseurl }}/assets/imgs-icons-contacts/Github.svg)](https://github.com/IamOmarDarwesh)
+
 [![LinkedIn]({{ site.baseurl }}/assets/imgs-icons-contacts/Linkedin.svg)](https://www.linkedin.com/in/iamomardarwesh/)
+
 [![Gmail]({{ site.baseurl }}/assets/imgs-icons-contacts/Gmail.svg)](mailto:omarelsayeddarwesh@gmail.com)
+
 [![WhatsApp]({{ site.baseurl }}/assets/imgs-icons-contacts/WhatsApp.svg)](https://wa.me/201002949020)
 
 
