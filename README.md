@@ -320,63 +320,6 @@ Looking forward to hearing from you!
 
 </div>
 
-[![GitHub]({{ site.baseurl }}/assets/imgs-icons-contacts/Github.svg)](https://github.com/IamOmarDarwesh)
-[![LinkedIn]({{ site.baseurl }}/assets/imgs-icons-contacts/Linkedin.svg)](https://www.linkedin.com/in/iamomardarwesh/)
-[![Gmail]({{ site.baseurl }}/assets/imgs-icons-contacts/Gmail.svg)](mailto:omarelsayeddarwesh@gmail.com)
-[![WhatsApp]({{ site.baseurl }}/assets/imgs-icons-contacts/WhatsApp.svg)](https://wa.me/201002949020)
-
-
----
-
-<div align="center">
-  
-Thanks for visiting my Profile! 
-
-
-If you like to connect, collaborate, or just say hello, feel free to reach out through any of the links below:
-</div>
-
-[![GitHub](assets/imgs-icons-contacts/Github.svg)](https://github.com/IamOmarDarwesh)
-[![LinkedIn](assets/imgs-icons-contacts/Linkedin.svg)](https://www.linkedin.com/in/iamomardarwesh/)
-[![Gmail](assets/imgs-icons-contacts/Gmail.svg)](mailto:omarelsayeddarwesh@gmail.com)
-[![WhatsApp](assets/imgs-icons-contacts/WhatsApp.svg)](https://wa.me/201002949020)
-
-
-<div align="center">
-  
-Looking forward to hearing from you!
-
-</div>
-
----
-
-
-
-<div align="center">
-  
-  <p>Thanks for visiting my Profile!</p>
-  <p>If you like to connect, collaborate, or just say hello, feel free to reach out through any of the links below:</p>
-
-  <a href="https://github.com/IamOmarDarwesh">
-    <img src="assets/imgs-icons-contacts/Github.svg" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/iamomardarwesh/">
-    <img src="assets/imgs-icons-contacts/Linkedin.svg" alt="LinkedIn" />
-  </a>
-  <a href="mailto:omarelsayeddarwesh@gmail.com">
-    <img src="assets/imgs-icons-contacts/Gmail.svg" alt="Gmail" />
-  </a>
-  <a href="https://wa.me/201002949020">
-    <img src="assets/imgs-icons-contacts/WhatsApp.svg" alt="WhatsApp" />
-  </a>
-
-  <p>Looking forward to hearing from you!</p>
-
-</div>
-
-
-
-
 ---
 
 
@@ -393,29 +336,6 @@ Looking forward to hearing from you!
 
 
 
-
----
-
-
-<div align="center">
-  
-  <p>Thanks for visiting my Profile!</p>
-  <p>If you like to connect, collaborate, or just say hello, feel free to reach out through any of the links below:</p>
-
-  <!-- Icons (no whitespace between <a> tags to avoid dots in README) -->
-  <a href="https://github.com/IamOmarDarwesh">
-    <img src="assets/imgs-icons-contacts/Github.svg" alt="GitHub" />
-  </a><a href="https://www.linkedin.com/in/iamomardarwesh/">
-    <img src="assets/imgs-icons-contacts/Linkedin.svg" alt="LinkedIn" />
-  </a><a href="mailto:omarelsayeddarwesh@gmail.com">
-    <img src="assets/imgs-icons-contacts/Gmail.svg" alt="Gmail" />
-  </a><a href="https://wa.me/201002949020">
-    <img src="assets/imgs-icons-contacts/WhatsApp.svg" alt="WhatsApp" />
-  </a>
-
-  <p>Looking forward to hearing from you!</p>
-
-</div>
 
 
 
