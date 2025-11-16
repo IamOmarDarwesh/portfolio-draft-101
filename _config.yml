@@ -1,7 +1,7 @@
 title: ""
 
 
-remote_theme: startbootstrap/startbootstrap-freelancer-jekyll
+remote_theme: jekyllthemes/journal
 
 plugins:
   - jekyll-remote-theme
