@@ -1,11 +1,3 @@
-<!-- Enable system light/dark mode -->
-<style>
-:root {
-  color-scheme: light dark;
-}
-</style>
-
-
 
 <br>
 <br>
