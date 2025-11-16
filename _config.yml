@@ -1,6 +1,6 @@
 title: ""
 
-remote_theme: jekyllthemes/mediator
+remote_theme: jekyllthemes/long-haul
 
 plugins:
   - jekyll-remote-theme
