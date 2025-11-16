@@ -4,6 +4,3 @@ title: ""
 
 
 remote_theme: johnotander/phantom
-
-plugins:
-  - jekyll-remote-theme
