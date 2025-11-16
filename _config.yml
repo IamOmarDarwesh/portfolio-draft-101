@@ -1,9 +1,10 @@
 title: ""
 
-theme: jekyll-theme-so-simple
+
+remote_theme: startbootstrap/startbootstrap-freelancer-jekyll
 
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
   - jekyll-seo-tag
 
 
