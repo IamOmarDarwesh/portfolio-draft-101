@@ -1,6 +1,6 @@
 title: ""
 
-remote_theme: "mattvh/joseph"
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
+remote_theme: "hmfaysal/jekyll-hmfaysal-theme"  # replace with correct GitHub repo  
+plugins:  
+  - jekyll-remote-theme  
+  - jekyll-feed  
