@@ -1,5 +1,11 @@
 title: ""
 
+remote_theme: poole/lanyon
 
-remote_theme: wowthemesnet/memoirs-jekyll-theme
+plugins:
+  - jekyll-remote-theme
+
+
+
+
 
