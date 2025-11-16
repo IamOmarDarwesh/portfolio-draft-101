@@ -1,9 +1,8 @@
 title: ""
 
 
-theme: hitchens-theme
-plugins:
-  - jekyll-paginate
+remote_theme: hitchens-theme
+
 
 
 
