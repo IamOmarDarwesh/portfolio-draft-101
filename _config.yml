@@ -1,9 +1,9 @@
 title: ""
 
 
-remote_theme: wowthemesnet/mundana-theme-jekyll
+theme: hitchens-theme
 plugins:
-  - jekyll-remote-theme
+  - jekyll-paginate
 
 
 
