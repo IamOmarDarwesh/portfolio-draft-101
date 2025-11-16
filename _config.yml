@@ -1,9 +1,10 @@
 title: ""
 
-remote_theme: "pages-themes/minimal@0.2.0" # check for the correct tag
+markdown: kramdown
+theme: minima  # Figs does not require a gem theme; minima is placeholder
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-seo-tag
 
 
 
