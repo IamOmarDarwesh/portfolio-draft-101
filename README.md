@@ -328,20 +328,26 @@ Looking forward to hearing from you!
 
 ---
 
-
 <div align="center">
-  
-Thanks for visiting my Profile!  
+  <p>Thanks for visiting my Profile!</p>
+  <p>If you’d like to connect…</p>
 
-If you like to connect, collaborate, or just say hello, feel free to reach out through any of the links below:
+  <a href="https://github.com/IamOmarDarwesh">
+    <img src="https://raw.githubusercontent.com/IamOmarDarwesh/portfolio-draft-101/main/assets/imgs-icons-contacts/Github.svg" width="40" />
+  </a>
 
-[![GitHub](https://raw.githubusercontent.com/IamOmarDarwesh/portfolio-draft-101/main/assets/imgs-icons-contacts/Github.svg)](https://github.com/IamOmarDarwesh)
-[![LinkedIn](https://raw.githubusercontent.com/IamOmarDarwesh/portfolio-draft-101/main/assets/imgs-icons-contacts/Linkedin.svg)](https://www.linkedin.com/in/iamomardarwesh/)
-[![Gmail](https://raw.githubusercontent.com/IamOmarDarwesh/portfolio-draft-101/main/assets/imgs-icons-contacts/Gmail.svg)](mailto:omarelsayeddarwesh@gmail.com)
-[![WhatsApp](https://raw.githubusercontent.com/IamOmarDarwesh/portfolio-draft-101/main/assets/imgs-icons-contacts/WhatsApp.svg)](https://wa.me/201002949020)
+  <a href="https://www.linkedin.com/in/iamomardarwesh/">
+    <img src="https://raw.githubusercontent.com/IamOmarDarwesh/portfolio-draft-101/main/assets/imgs-icons-contacts/Linkedin.svg" width="40" />
+  </a>
 
-<br/>
+  <a href="mailto:omarelsayeddarwesh@gmail.com">
+    <img src="https://raw.githubusercontent.com/IamOmarDarwesh/portfolio-draft-101/main/assets/imgs-icons-contacts/Gmail.svg" width="40" />
+  </a>
 
-Looking forward to hearing from you!  
+  <a href="https://wa.me/201002949020">
+    <img src="https://raw.githubusercontent.com/IamOmarDarwesh/portfolio-draft-101/main/assets/imgs-icons-contacts/WhatsApp.svg" width="40" />
+  </a>
 
+  <p>Looking forward to hearing from you!</p>
 </div>
+
