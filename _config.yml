@@ -1,8 +1,11 @@
 title: ""
 
 
-remote_theme: jekyll-theme-tactile
-
+theme: jekyll-theme-tactile
+plugins:
+  - jekyll-remote-theme          # Required if using remote_theme
+  - jekyll-feed                  # Optional: RSS feed
+  - jekyll-seo-tag  
 
 
 
