@@ -1,9 +1,10 @@
 title: ""
 
-theme: jekyll-theme-docs
+theme: minimal-mistakes-jekyll
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 
 
