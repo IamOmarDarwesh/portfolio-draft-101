@@ -1,5 +1,9 @@
 title: ""
 
 
-remote_theme: daviddarnes/alembic
 
+
+emote_theme: johnotander/phantom
+
+plugins:
+  - jekyll-remote-theme
