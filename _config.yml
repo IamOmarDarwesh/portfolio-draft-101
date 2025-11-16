@@ -1,10 +1,8 @@
 title: ""
 
-markdown: kramdown
-theme: minima  # Figs does not require a gem theme; minima is placeholder
+remote_theme: "tim‑obrien/singlepaged"   # replace with the correct GitHub repo
 plugins:
+  - jekyll‑remote‑theme
   - jekyll-feed
-  - jekyll-seo-tag
-
 
 
