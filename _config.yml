@@ -1,9 +1,7 @@
 title: ""
 
 remote_theme: "theramiyer/typographical"  # good typography / storyteller style :contentReference[oaicite:0]{index=0}
-plugins:
-  - jekyll-remote-theme
-  - jekyll-paginate
+
 
 
 
