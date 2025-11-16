@@ -1,11 +1,8 @@
 title: ""
 
 
-remote_theme: "pages-themes/tactile@1.0"  # Latest release of Tactile
 plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-seo-tag
+  - jekyll-typogrify
 
 
 
