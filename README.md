@@ -245,14 +245,16 @@ I worked very hard to get certified by Microsoft in **Power BI** and **Azure Clo
 
 
 ### Microsoft Certified: Power BI Data Analyst:
-https://learn.microsoft.com/en-us/users/iamomardarwesh/credentials/40ec254c1199ceed
+
+[View Credential](https://learn.microsoft.com/en-us/users/iamomardarwesh/credentials/40ec254c1199ceed)
 
 ![Power BI Certification](assets/imgs-Certifications/PL-300-Microsoft-Power-BI-Data-Analyst-certificate.png)
 
 
 
 ### Microsoft Certified: Azure Data Fundamentals:
-https://learn.microsoft.com/en-us/users/iamomardarwesh/credentials/c10953d4ba96486c
+
+[View Credential](https://learn.microsoft.com/en-us/users/iamomardarwesh/credentials/c10953d4ba96486c)
 
 ![Azure Data Fundamentals Certification](assets/imgs-Certifications/DP-900-Microsoft-Azure-Data-Fundamentals-certificate.png)
 
