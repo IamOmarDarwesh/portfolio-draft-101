@@ -218,6 +218,9 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 
 **SQL | MySQL | Python | Jupyter Notebook | Power BI | Figma | PowerPoint**
 
+`SQL` | `MySQL` | `Python` | `Jupyter Notebook` | `Power BI` | `Figma` | `PowerPoint`
+
+
 - Focused on **SDG 6.1.1 – Access to Safely Managed Drinking Water**, aiming to ensure clean and safe water for all in Maji Ndogo.  
 - Connected to a **MySQL database** and conducted deep **SQL-based exploration, cleaning, and transformation** of water source data directly in **Jupyter Notebook**, with light Python support for additional processing.
   
@@ -304,56 +307,6 @@ My goal here is to build scalable, reliable, and maintainable data solutions tha
 <br>
 <br>
 <br>
-
-<div align="center">
-  
-Thanks for visiting my Profile! 
-
-
-If you like to connect, collaborate, or just say hello, feel free to reach out through any of the links below:
-
-[![GitHub](assets/imgs-icons-contacts/Github.svg)](https://github.com/IamOmarDarwesh)
-[![LinkedIn](assets/imgs-icons-contacts/Linkedin.svg)](https://www.linkedin.com/in/iamomardarwesh/)
-[![Gmail](assets/imgs-icons-contacts/Gmail.svg)](mailto:omarelsayeddarwesh@gmail.com)
-[![WhatsApp](assets/imgs-icons-contacts/WhatsApp.svg)](https://wa.me/201002949020)
-
-
-Looking forward to hearing from you!
-
-</div>
-
----
-
-
-<div align="center">
-  
-  <p>Thanks for visiting my Profile!</p>
-  <p>If you like to connect, collaborate, or just say hello, feel free to reach out through any of the links below:</p>
-
-  <a href="https://github.com/IamOmarDarwesh" style="margin: 0 8px;"><img src="assets/imgs-icons-contacts/Github.svg" alt="GitHub" /></a><a href="https://www.linkedin.com/in/iamomardarwesh/" style="margin: 0 8px;"><img src="assets/imgs-icons-contacts/Linkedin.svg" alt="LinkedIn" /></a><a href="mailto:omarelsayeddarwesh@gmail.com" style="margin: 0 8px;"><img src="assets/imgs-icons-contacts/Gmail.svg" alt="Gmail" /></a><a href="https://wa.me/201002949020" style="margin: 0 8px;"><img src="assets/imgs-icons-contacts/WhatsApp.svg" alt="WhatsApp" /></a>
-
-  <p>Looking forward to hearing from you!</p>
-
-</div>
-
-
-
----
-
-
-<div align="center">
-  <p>Thanks for visiting my Profile!</p>
-  <p>If you like to connect, collaborate, or just say hello, feel free to reach out through any of the links below:</p>
-
-  <a href="https://github.com/IamOmarDarwesh" style="margin:0 8px;"><img src="assets/imgs-icons-contacts/Github.svg" alt="GitHub" /></a><a href="https://www.linkedin.com/in/iamomardarwesh/" style="margin:0 8px;"><img src="assets/imgs-icons-contacts/Linkedin.svg" alt="LinkedIn" /></a><a href="mailto:omarelsayeddarwesh@gmail.com" style="margin:0 8px;"><img src="assets/imgs-icons-contacts/Gmail.svg" alt="Gmail" /></a><a href="https://wa.me/201002949020" style="margin:0 8px;"><img src="assets/imgs-icons-contacts/WhatsApp.svg" alt="WhatsApp" /></a>
-
-  <p>Looking forward to hearing from you!</p>
-</div>
-
-
-
----
----
 
 <div align="center">
 
