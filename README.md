@@ -229,9 +229,9 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 **Tools:**  
 
 <div style="margin: 10px 0;">
-  <span style="display:inline-block; color:white; padding:4px 10px; border-radius:5px; margin:2px;">SQL</span>
-  <span style="display:inline-block; background:#4da3ff; color:white; padding:4px 10px; border-radius:5px; margin:2px;">MySQL</span>
-  <span style="display:inline-block; background:#4da3ff; color:white; padding:4px 10px; border-radius:5px; margin:2px;">Python</span>
+  <span style="display:inline-block; color:white; padding:4px 10px; border-radius:5px; margin:2px;">`SQL`</span>
+  <span style="display:inline-block;  color:white; padding:4px 10px; border-radius:5px; margin:2px;"> `MySQL`</span>
+  <span style="display:inline-block;  color:white; padding:4px 10px; border-radius:5px; margin:2px;">`Python`</span>
   <span style="display:inline-block; background:#4da3ff; color:white; padding:4px 10px; border-radius:5px; margin:2px;">Jupyter Notebook</span>
   <span style="display:inline-block; background:#4da3ff; color:white; padding:4px 10px; border-radius:5px; margin:2px;">Power BI</span>
   <span style="display:inline-block; background:#4da3ff; color:white; padding:4px 10px; border-radius:5px; margin:2px;">Figma</span>
