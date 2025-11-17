@@ -2,8 +2,8 @@ title: ""
 
 
 
-# In _config.yml
-# theme: minima
 
+theme: minima
 minima:
-  skin: auto # dark # Or auto if you want it to switch with your system settings.
+  skin: auto  # newer versions support 'auto', 'light', 'dark'
+
