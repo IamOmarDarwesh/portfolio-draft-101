@@ -5,7 +5,7 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 minima:
-  skin: classic # auto # OR dark # OR light
+  skin: light # auto # OR dark # OR light
   hide_site_feed_link: true
 
 
