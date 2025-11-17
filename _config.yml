@@ -1,11 +1,9 @@
 title: ""
 
 
-remote_theme: "nrandecker/particle"
+remote_theme: "whenfung/simple"
 
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
+
 
 
 
