@@ -1,17 +1,6 @@
 title: ""
 
-emote_theme: "bradleyshaw/slate-and-simple"
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-
-# Optional: Font customization (Google Fonts)
-font:
-  body: "Roboto, sans-serif"  # Change to your preferred font for the body text
-  heading: "Arial, sans-serif"  # Font for headings (H1, H2, etc.)
-
-
+remote_theme: "bradleyshaw/slate-and-simple"
 
 
 
