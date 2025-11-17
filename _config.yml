@@ -18,5 +18,6 @@ exclude:
   - feed.xml  
 minima:
   skin: auto # dark # Or auto if you want it to switch with your system settings.
+  hide_site_feed_link: true
 
 
