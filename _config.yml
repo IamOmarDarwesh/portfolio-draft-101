@@ -8,8 +8,8 @@ plugins:
 
 # Optional: Font customization (Google Fonts)
 font:
-  body: "Georgia, serif"     # body text font
-  heading: "Helvetica, sans-serif"  # header font
+  body: "Roboto, sans-serif"  # Change to your preferred font for the body text
+  heading: "Arial, sans-serif"  # Font for headings (H1, H2, etc.)
 
 
 
