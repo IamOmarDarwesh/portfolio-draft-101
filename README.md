@@ -1,18 +1,5 @@
 
 
-
-<span style="white-space:nowrap;">
-<a href="https://jupyter.org/"><img src="assets/imgs-tools&technologies/Jupyter-notebook.svg"  style="display:inline-block;"/></a>
-<a href="https://colab.research.google.com/"><img src="assets/imgs-tools&technologies/google-colab.png"  style="display:inline-block;"/></a>
-<a href="https://code.visualstudio.com/"><img src="assets/imgs-tools&technologies/Visual-Studio-Code.png"  style="display:inline-block;"/></a>
-<a href="https://jupyter.org/"><img src="assets/imgs-tools&technologies/Jupyter-notebook.svg"  style="display:inline-block;"/></a>
-<a href="https://colab.research.google.com/"><img src="assets/imgs-tools&technologies/google-colab.png"  style="display:inline-block;"/></a>
-<a href="https://code.visualstudio.com/"><img src="assets/imgs-tools&technologies/Visual-Studio-Code.png"  style="display:inline-block;"/></a>
-<a href="https://jupyter.org/"><img src="assets/imgs-tools&technologies/Jupyter-notebook.svg"  style="display:inline-block;"/></a>
-<a href="https://colab.research.google.com/"><img src="assets/imgs-tools&technologies/google-colab.png"  style="display:inline-block;"/></a>
-<a href="https://code.visualstudio.com/"><img src="assets/imgs-tools&technologies/Visual-Studio-Code.png"  style="display:inline-block;"/></a>
-</span>
-
 ---
 
 <span style="white-space:nowrap;">
@@ -98,6 +85,18 @@
   </a>
 </div>
 
+
+---
+
+<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
+  <a href="https://www.microsoft.com/microsoft-365/excel"><img src="assets/imgs-tools&technologies/excel.png" style="max-height:100%;"/></a>
+  <a href="https://www.w3schools.com/sql/"><img src="assets/imgs-tools&technologies/sql-database-generic.svg" style="max-height:100%;"/></a>
+  <a href="https://www.python.org/"><img src="assets/imgs-tools&technologies/Python.svg" style="max-height:100%;"/></a>
+  <a href="https://www.google.com/sheets/about/"><img src="assets/imgs-tools&technologies/google-sheets.png" style="max-height:100%;"/></a>
+  <a href="https://en.wikipedia.org/wiki/Comma-separated_values"><img src="assets/imgs-tools&technologies/csv.png" style="max-height:100%;"/></a>
+  <a href="https://www.microsoft.com/sql-server"><img src="assets/imgs-tools&technologies/ms-sql-server.png" style="max-height:100%;"/></a>
+  <a href="https://www.mysql.com/"><img src="assets/imgs-tools&technologies/mysql.svg" style="max-height:100%;"/></a>
+</div>
 
 
 ---
