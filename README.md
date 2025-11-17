@@ -160,6 +160,8 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 - [Visualizing the Currents of Change — Part 4](https://app.powerbi.com/view?r=eyJrIjoiNmQ5Zjc3NTctMmU3NC00ZjA5LWE1ZjktNDhlM2M1ZjIxNDQ2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 - [Visualizing the Currents of Change — Part 5](https://app.powerbi.com/view?r=eyJrIjoiZjFhMmI0OWEtMWU5Yi00YmE0LWE1ZjAtZWJmNGJiNjQzYTQwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
+<br>
+
 ---
 
 
@@ -181,7 +183,8 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 
 #### Tools Used:
 
-`Power BI` | `DAX` | `Excel` | `Figma`
+`Power BI`, `DAX`, `Excel`, `Figma`
+
 
 <br>
 
@@ -216,7 +219,8 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 
 #### Tools Used:
 
-`SQL Server` | `SSMS` | `Draw.io` | `Notion` | `GitHub`
+`SQL Server`, `SSMS`, `Draw.io`, `Notion`, `GitHub`
+
 
 <br>
 
@@ -286,6 +290,8 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 
 🔗 **View Full Project:** [Sustainable Data-Driven Solutions through Data Analysis of Water Crisis](https://github.com/IamOmarDarwesh/Sustainable-Data-Driven-Solutions-through-Data-Analysis-of-Water-Crisis)
 
+<br>
+
 ---
 
 
@@ -317,6 +323,8 @@ I worked very hard to get certified by Microsoft in **Power BI** and **Azure Clo
 
 ![Azure Data Fundamentals Certification](assets/imgs-Certifications/DP-900-Microsoft-Azure-Data-Fundamentals-certificate.png)
 
+<br>
+
 ---
 
 <br>
@@ -336,6 +344,7 @@ I joined Cairo University to pursue an academic degree in Computer Science, driv
 - **GPA:** 3.7 / 4.0  
 - *Graduation Year: 2025*
 
+<br>
 ---
 
 <br>
@@ -349,7 +358,7 @@ You might be wondering what I’ve been up to lately.
 
 I’ve been focused on learning/mastering tools like **Fivetran**, **Airbyte**, **Airflow**, **dbt**, **BigQuery**, and **Metabase** through hands-on experience.
 
-
+<br>
 
 [![Fivetran](assets/imgs-tools&technologies/Fivetran.svg)](https://www.fivetran.com/)
 [![Airbyte](assets/imgs-tools&technologies/airbyte.png)](https://www.airbyte.com/)
@@ -361,10 +370,11 @@ I’ve been focused on learning/mastering tools like **Fivetran**, **Airbyte**, 
 
 [![Metabase](assets/imgs-tools&technologies/metabase.svg)](https://www.metabase.com/)
 
-
+<br>
 
 My goal here is to build scalable, reliable, and maintainable data solutions that drive real business impact and support better decision-making and long-term growth — from automated pipelines to insightful dashboards.
 
+<br>
 ---
 
 <br>
