@@ -229,13 +229,34 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 **Tools:**  
 
 <div style="margin: 10px 0;">
-  <span style="display:inline-block; color:white; padding:4px 10px; border-radius:5px; margin:2px;">`SQL`</span>
-  <span style="display:inline-block;  color:white; padding:4px 10px; border-radius:5px; margin:2px;"> `MySQL`</span>
-  <span style="display:inline-block;  color:white; padding:4px 10px; border-radius:5px; margin:2px;">`Python`</span>
-  <span style="display:inline-block; background:#4da3ff; color:white; padding:4px 10px; border-radius:5px; margin:2px;">Jupyter Notebook</span>
-  <span style="display:inline-block; background:#4da3ff; color:white; padding:4px 10px; border-radius:5px; margin:2px;">Power BI</span>
-  <span style="display:inline-block; background:#4da3ff; color:white; padding:4px 10px; border-radius:5px; margin:2px;">Figma</span>
-  <span style="display:inline-block; background:#4da3ff; color:white; padding:4px 10px; border-radius:5px; margin:2px;">PowerPoint</span>
+  <span style="display:inline-block; color:green ; padding:4px 10px; border-radius:5px; margin:2px;">SQL</span>
+  <span style="display:inline-block;  color:white; padding:4px 10px; border-radius:5px; margin:2px;"> MySQL</span>
+  <span style="display:inline-block;  color:white; padding:4px 10px; border-radius:5px; margin:2px;">Python</span>
+  <span style="display:inline-block;  color:white; padding:4px 10px; border-radius:5px; margin:2px;">Jupyter Notebook</span>
+  <span style="display:inline-block;  color:white; padding:4px 10px; border-radius:5px; margin:2px;">Power BI</span>
+  <span style="display:inline-block;  color:white; padding:4px 10px; border-radius:5px; margin:2px;">Figma</span>
+  <span style="display:inline-block;  color:white; padding:4px 10px; border-radius:5px; margin:2px;">PowerPoint</span>
+</div>
+
+<div style="margin: 10px 0; display:flex; flex-wrap:wrap; gap:6px;">
+  <span style="display:inline-block; background:#1e90ff; color:white; padding:4px 10px; border-radius:5px;">SQL</span>
+  <span style="display:inline-block; background:#2e8b57; color:white; padding:4px 10px; border-radius:5px;">MySQL</span>
+  <span style="display:inline-block; background:#6a5acd; color:white; padding:4px 10px; border-radius:5px;">Python</span>
+  <span style="display:inline-block; background:#ff8c00; color:white; padding:4px 10px; border-radius:5px;">Jupyter Notebook</span>
+  <span style="display:inline-block; background:#00ced1; color:white; padding:4px 10px; border-radius:5px;">Power BI</span>
+  <span style="display:inline-block; background:#ff6347; color:white; padding:4px 10px; border-radius:5px;">Figma</span>
+  <span style="display:inline-block; background:#9acd32; color:black; padding:4px 10px; border-radius:5px;">PowerPoint</span>
+</div>
+
+
+<div style="margin: 10px 0; display:flex; flex-wrap:wrap; gap:6px;">
+  <span style="display:inline-block; background:#1e90ff; color:#e0f0ff; padding:4px 10px; border-radius:5px;">SQL</span>
+  <span style="display:inline-block; background:#2e8b57; color:#d4f1dc; padding:4px 10px; border-radius:5px;">MySQL</span>
+  <span style="display:inline-block; background:#6a5acd; color:#e6e0ff; padding:4px 10px; border-radius:5px;">Python</span>
+  <span style="display:inline-block; background:#ff8c00; color:#fff4e0; padding:4px 10px; border-radius:5px;">Jupyter Notebook</span>
+  <span style="display:inline-block; background:#00ced1; color:#e0ffff; padding:4px 10px; border-radius:5px;">Power BI</span>
+  <span style="display:inline-block; background:#ff6347; color:#ffe0dc; padding:4px 10px; border-radius:5px;">Figma</span>
+  <span style="display:inline-block; background:#9acd32; color:#2b2b00; padding:4px 10px; border-radius:5px;">PowerPoint</span>
 </div>
 
 
