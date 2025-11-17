@@ -218,28 +218,18 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 
 #### Tools:
 
-**SQL** • **MySQL** • **Python** • **Jupyter Notebook** • **Power BI** • **Figma** • **PowerPoint**
-
-**SQL**  **MySQL**  **Python**  **Jupyter Notebook** **Power BI**  **Figma**  **PowerPoint**
-
-SQL | MySQL | Python | Jupyter Notebook | Power BI | Figma | PowerPoint
 
 `SQL` | `MySQL` | `Python` | `Jupyter Notebook` | `Power BI` | `Figma` | `PowerPoint`
 
 
 `SQL` • `MySQL` • `Python` • `Jupyter Notebook` • `Power BI` • `Figma` • `PowerPoint`
 
-**Tools:**
-
-| SQL | MySQL | Python | Jupyter Notebook | Power BI | Figma | PowerPoint |
-
-
 
 
 **Tools:**  
 
 <div style="margin: 10px 0;">
-  <span style="display:inline-block; background:#4da3ff; color:white; padding:4px 10px; border-radius:5px; margin:2px;">SQL</span>
+  <span style="display:inline-block; color:white; padding:4px 10px; border-radius:5px; margin:2px;">SQL</span>
   <span style="display:inline-block; background:#4da3ff; color:white; padding:4px 10px; border-radius:5px; margin:2px;">MySQL</span>
   <span style="display:inline-block; background:#4da3ff; color:white; padding:4px 10px; border-radius:5px; margin:2px;">Python</span>
   <span style="display:inline-block; background:#4da3ff; color:white; padding:4px 10px; border-radius:5px; margin:2px;">Jupyter Notebook</span>
@@ -289,6 +279,8 @@ I worked very hard to get certified by Microsoft in **Power BI** and **Azure Clo
 
 ![Azure Data Fundamentals Certification](assets/imgs-Certifications/DP-900-Microsoft-Azure-Data-Fundamentals-certificate.png)
 
+---
+
 <br>
 <br>
 <br>
@@ -304,6 +296,7 @@ I joined Cairo University to pursue an academic degree in Computer Science, driv
 - **GPA:** 3.7 / 4.0  
 - *Graduation Year: 2025*
 
+---
 
 <br>
 <br>
@@ -332,9 +325,12 @@ I’ve been focused on learning/mastering tools like **Fivetran**, **Airbyte**, 
 
 My goal here is to build scalable, reliable, and maintainable data solutions that drive real business impact and support better decision-making and long-term growth — from automated pipelines to insightful dashboards.
 
+---
+
 <br>
 <br>
 <br>
+
 
 <div align="center">
 
@@ -352,4 +348,6 @@ My goal here is to build scalable, reliable, and maintainable data solutions tha
 
 </div>
 
-
+<br>
+<br>
+<br>
