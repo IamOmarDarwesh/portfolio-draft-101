@@ -3,5 +3,6 @@ title: ""
 
 remote_theme: riggraz/no-style-please
 
-
+sass:
+  style: compressed
 
