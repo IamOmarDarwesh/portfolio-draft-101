@@ -1,6 +1,9 @@
 title: ""
 
-remote_theme: "rohanchandra/type-theme"  # Type Theme :contentReference[oaicite:3]{index=3}  
+remote_theme: "pmarsceill/so-simple-theme"
+
+# Plugins supported on GitHub Pages
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+
