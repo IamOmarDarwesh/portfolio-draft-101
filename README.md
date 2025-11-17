@@ -171,7 +171,7 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 <br>
 <br>
 
-## Projects
+# Projects
 
 <br>
 <br>
@@ -345,6 +345,7 @@ I joined Cairo University to pursue an academic degree in Computer Science, driv
 - *Graduation Year: 2025*
 
 <br>
+
 ---
 
 <br>
@@ -375,6 +376,7 @@ I’ve been focused on learning/mastering tools like **Fivetran**, **Airbyte**, 
 My goal here is to build scalable, reliable, and maintainable data solutions that drive real business impact and support better decision-making and long-term growth — from automated pipelines to insightful dashboards.
 
 <br>
+
 ---
 
 <br>
