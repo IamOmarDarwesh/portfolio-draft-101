@@ -1,5 +1,5 @@
-| [![Jupyter](assets/imgs-tools&technologies/Jupyter-notebook.svg)](https://jupyter.org/) | [![Colab](assets/imgs-tools&technologies/google-colab.png)](https://colab.research.google.com/) | [![VS Code](assets/imgs-tools&technologies/Visual-Studio-Code.png)](https://code.visualstudio.com/) |
-| --- | --- | --- |
+[![Jupyter](assets/imgs-tools&technologies/Jupyter-notebook.svg)](https://jupyter.org/)[![Colab](assets/imgs-tools&technologies/google-colab.png)](https://colab.research.google.com/)[![VS Code](assets/imgs-tools&technologies/Visual-Studio-Code.png)](https://code.visualstudio.com/)
+
 
 <br>
 <br>
