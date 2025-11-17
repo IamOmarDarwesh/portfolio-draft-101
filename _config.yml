@@ -2,6 +2,6 @@ title: ""
 
 remote_theme: "kreinloo/jekyll-theme-hackcss"
 
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
+font:
+  body: "Lora, serif"
+  heading: "Raleway, sans-serif"
