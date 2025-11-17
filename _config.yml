@@ -6,4 +6,4 @@ title: ""
 # theme: minima
 
 minima:
-  skin: dark # Or auto if you want it to switch with your system settings.
+  skin: auto # dark # Or auto if you want it to switch with your system settings.
