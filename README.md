@@ -158,6 +158,9 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 
 ---
 
+
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -165,13 +168,12 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 ## Projects
 
 <br>
+<br>
 
 
 ### Call Center Performance Analytics Dashboard  
 
 > *Turning call center data into smarter decisions and happier customers.*  
-
-**Power BI | DAX | Excel | Figma**
 
 
 - Defined **business objectives, KPIs, and performance metrics** to guide strategic growth.
@@ -184,17 +186,21 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 - Delivered **real-time analytics** on agent behavior, handle time, and customer satisfaction trends.  
 - Empowered stakeholders with **actionable insights and data-backed recommendations** for smarter, cost-efficient decision-making that improved service quality and operational efficiency.
 
+#### Tools Used:
 
+`Power BI` | `DAX` | `Excel` | `Figma`
 
 🔗 **View Full Project:** [Call Center Performance Analytics Dashboard](https://github.com/IamOmarDarwesh/Call-Center-Performance-Analytics-Dashboard)
 
 <br>
 <br>
+<br>
+
+
 
 ### Modern SQL Data Warehouse Building & Analytics  
 > *Building a scalable data foundation for smarter analytics and reliable insights through modern data architecture and SQL engineering.*
 
-**SQL Server | SSMS | Draw.io | Notion | GitHub**
 
 - **Explored and analyzed business requirements** to define objectives, data needs, project scope, and deliverables.
 - **Planned and structured the project in Notion**, organizing all stages — from architecture design to validation and documentation — with clearly defined phases, timelines, and milestones.
@@ -207,18 +213,21 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 - **Developed SQL-based analytics** to uncover insights into sales trends, customer behavior, and product performance.  
 - **Used GitHub for version control and project tracking** to ensure transparency, traceability, and collaboration.  
 
+#### Tools Used:
+
+`SQL Server` | `SSMS` | `Draw.io` | `Notion` | `GitHub`
+
+
 🔗 **View Full Project:** [Modern SQL Data Warehouse Building & Analytics](https://github.com/IamOmarDarwesh/Modern-SQL-Data-Warehouse-Building-Analytics)
 
 
+<br>
 <br>
 <br>
 
 ### Problem-Solving and Transformative Data Analysis & Insights for Sustainable Solutions  
 > *Turning data into action —— using SQL, Power BI, and analytics to bring clean water, equity, and hope to millions.*  
 
-#### Tools:
-
-`SQL`|`MySQL`|`Python`|`Jupyter Notebook`|`Power BI`|`Figma`|`PowerPoint`
 
 - Focused on **SDG 6.1.1 – Access to Safely Managed Drinking Water**, aiming to ensure clean and safe water for all in Maji Ndogo.  
 - Connected to a **MySQL database** and conducted deep **SQL-based exploration, cleaning, and transformation** of water source data directly in **Jupyter Notebook**, with light Python support for additional processing.
@@ -232,11 +241,19 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 - Delivered actionable insights that guided new wells, repairs, and equitable water distribution — improving quality of life and community resilience.  
 - Achieved a **transformative impact**, with **~18 million people** gaining access to clean water and living conditions improving significantly.  
 
+
+#### Tools:
+
+`SQL`|`MySQL`|`Python`|`Jupyter Notebook`|`Power BI`|`Figma`|`PowerPoint`
+
+
 🔗 **View Full Project:** [Sustainable Data-Driven Solutions through Data Analysis of Water Crisis](https://github.com/IamOmarDarwesh/Sustainable-Data-Driven-Solutions-through-Data-Analysis-of-Water-Crisis)
 
 ---
 
 
+<br>
+<br>
 <br>
 <br>
 <br>
