@@ -1,1 +1,10 @@
+---
+---
+
+/* Make images appear on the same line */
+img {
+  display: inline-block !important;
+  vertical-align: middle;
+  margin-right: 10px; /* optional spacing */
+}
 
