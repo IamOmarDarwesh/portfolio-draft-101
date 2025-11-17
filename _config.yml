@@ -1,7 +1,6 @@
 title: ""
 
-remote_theme: "thebiggeek/jekyll-serif-theme"  # Serif theme by TheBigGeek :contentReference[oaicite:2]{index=2}  
+remote_theme: "rohanchandra/type-theme"  # Type Theme :contentReference[oaicite:3]{index=3}  
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
-  
