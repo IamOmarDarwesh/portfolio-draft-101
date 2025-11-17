@@ -1,3 +1,9 @@
+<p style="white-space:nowrap;">
+[![Jupyter Notebook](assets/imgs-tools&technologies/Jupyter-notebook.svg)](https://jupyter.org/)&nbsp;
+[![Google Colab](assets/imgs-tools&technologies/google-colab.png)](https://colab.research.google.com/)&nbsp;
+[![VS Code](assets/imgs-tools&technologies/Visual-Studio-Code.png)](https://code.visualstudio.com/)
+</p>
+
 
 <br>
 <br>
