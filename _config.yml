@@ -1,7 +1,7 @@
 title: ""
 
 
-remote_theme: "scotte/particle"
+remote_theme: "nrandecker/particle"
 
 plugins:
   - jekyll-remote-theme
