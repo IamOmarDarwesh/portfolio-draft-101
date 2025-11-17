@@ -22,68 +22,22 @@
 ---
 
 
-
 <div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
-  <a href="https://www.microsoft.com/microsoft-365/excel">
-    <img src="assets/imgs-tools&technologies/excel.png">
-  </a>
-  <a href="https://www.w3schools.com/sql/">
-    <img src="assets/imgs-tools&technologies/sql-database-generic.svg">
-  </a>
-  <a href="https://www.python.org/">
-    <img src="assets/imgs-tools&technologies/Python.svg">
-  </a>
-  <a href="https://www.google.com/sheets/about/">
-    <img src="assets/imgs-tools&technologies/google-sheets.png">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Comma-separated_values">
-    <img src="assets/imgs-tools&technologies/csv.png">
-  </a>
-  <a href="https://www.microsoft.com/sql-server">
-    <img src="assets/imgs-tools&technologies/ms-sql-server.png">
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="assets/imgs-tools&technologies/mysql.svg">
-  </a>
+  <a href="https://www.microsoft.com/microsoft-365/excel"><img src="assets/imgs-tools&technologies/excel.png"/></a>
+  <a href="https://www.w3schools.com/sql/"><img src="assets/imgs-tools&technologies/sql-database-generic.svg"/></a>
+  <a href="https://www.python.org/"><img src="assets/imgs-tools&technologies/Python.svg"/></a>
+  <a href="https://www.google.com/sheets/about/"><img src="assets/imgs-tools&technologies/google-sheets.png"/></a>
+  <a href="https://en.wikipedia.org/wiki/Comma-separated_values"><img src="assets/imgs-tools&technologies/csv.png"/></a>
+  <a href="https://www.microsoft.com/sql-server"><img src="assets/imgs-tools&technologies/ms-sql-server.png"/></a>
+  <a href="https://www.mysql.com/"><img src="assets/imgs-tools&technologies/mysql.svg"/></a>
 </div>
 
-
----
-
-<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
-  <a href="#"><img src="assets/imgs-tools&technologies/Jupyter-notebook.svg" ></a>
-  <a href="#"><img src="assets/imgs-tools&technologies/google-colab.png" ></a>
-  <a href="#"><img src="assets/imgs-tools&technologies/Visual-Studio-Code.png" ></a>
-
-</div>
 
 
 ---
 
 
-<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
-  <a href="https://www.microsoft.com/microsoft-365/excel">
-    <img src="assets/imgs-tools&technologies/excel.png" style="max-height:100%;"/>
-  </a>
-  <a href="https://www.w3schools.com/sql/">
-    <img src="assets/imgs-tools&technologies/sql-database-generic.svg" style="max-height:100%;"/>
-  </a>
-  <a href="https://www.python.org/">
-    <img src="assets/imgs-tools&technologies/Python.svg" style="max-height:100%;"/>
-  </a>
-  <a href="https://www.google.com/sheets/about/">
-    <img src="assets/imgs-tools&technologies/google-sheets.png" style="max-height:100%;"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Comma-separated_values">
-    <img src="assets/imgs-tools&technologies/csv.png" style="max-height:100%;"/>
-  </a>
-  <a href="https://www.microsoft.com/sql-server">
-    <img src="assets/imgs-tools&technologies/ms-sql-server.png" style="max-height:100%;"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="assets/imgs-tools&technologies/mysql.svg" style="max-height:100%;"/>
-  </a>
-</div>
+
 
 
 ---
