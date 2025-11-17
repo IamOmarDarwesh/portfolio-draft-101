@@ -1,10 +1,11 @@
 ---
 ---
 
-/* Make images appear on the same line */
+@import "no-style-please";  /* <-- required import */
+
+/* Your custom overrides */
 img {
   display: inline-block !important;
   vertical-align: middle;
-  margin-right: 10px; /* optional spacing */
+  margin-right: 10px;
 }
-
