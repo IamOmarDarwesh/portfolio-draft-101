@@ -1,8 +1,7 @@
 title: ""
 
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "kreinloo/jekyll-theme-hackcss"
 
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
-
