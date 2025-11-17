@@ -10,11 +10,12 @@
 ---
 
 
-<p style="white-space:nowrap;">
-  [![Jupyter Notebook](assets/imgs-tools&technologies/Jupyter-notebook.svg)](https://jupyter.org/)
-  [![Google Colab](assets/imgs-tools&technologies/google-colab.png)](https://colab.research.google.com/)
-  [![VS Code](assets/imgs-tools&technologies/Visual-Studio-Code.png)](https://code.visualstudio.com/)
-</p>
+<span style="white-space:nowrap;">
+<a href="https://jupyter.org/"><img src="assets/imgs-tools&technologies/Jupyter-notebook.svg" height="24"></a>&nbsp;
+<a href="https://colab.research.google.com/"><img src="assets/imgs-tools&technologies/google-colab.png" height="24"></a>&nbsp;
+<a href="https://code.visualstudio.com/"><img src="assets/imgs-tools&technologies/Visual-Studio-Code.png" height="24"></a>
+</span>
+
 
 ---
 
