@@ -1,17 +1,3 @@
-<style>
-.inline-icons img {
-  display: inline-block;
-  vertical-align: middle;
-  margin-right: 10px;
-}
-</style>
-
-<div class="inline-icons">
-  [![Jupyter](assets/imgs-tools&technologies/Jupyter-notebook.svg)](https://jupyter.org/)
-  [![Colab](assets/imgs-tools&technologies/google-colab.png)](https://colab.research.google.com/)
-  [![VS Code](assets/imgs-tools&technologies/Visual-Studio-Code.png)](https://code.visualstudio.com/)
-</div>
-
 
 <br>
 <br>
