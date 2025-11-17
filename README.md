@@ -84,6 +84,7 @@ I used  **Excel**, **SQL**, **Python**, **Google Sheets** for Exploring and Clea
 
 [![Excel](assets/imgs-tools&technologies/excel.png)](https://www.microsoft.com/microsoft-365/excel)  [![SQL](assets/imgs-tools&technologies/sql-database-generic.svg)](https://www.w3schools.com/sql/) [![Python](assets/imgs-tools&technologies/Python.svg)](https://www.python.org/)
 [![Google Sheets](assets/imgs-tools&technologies/google-sheets.png)](https://www.google.com/sheets/about/)
+<br>
 [![CSV](assets/imgs-tools&technologies/csv.png)](https://en.wikipedia.org/wiki/Comma-separated_values)
 [![SQL Server](assets/imgs-tools&technologies/ms-sql-server.png)](https://www.microsoft.com/sql-server)
 [![MySQL](assets/imgs-tools&technologies/mysql.svg)](https://www.mysql.com/)
@@ -182,6 +183,8 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 
 `Power BI` | `DAX` | `Excel` | `Figma`
 
+<br>
+
 - Defined **business objectives, KPIs, and performance metrics** to guide strategic growth.
   
 - **Sketched and designed** intuitive dashboard layouts for clear and digestible data visualization.
@@ -198,7 +201,7 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
   
 - Empowered stakeholders with **actionable insights and data-backed recommendations** for smarter, cost-efficient decision-making that improved service quality and operational efficiency.
 
-
+<br>
 
 🔗 **View Full Project:** [Call Center Performance Analytics Dashboard](https://github.com/IamOmarDarwesh/Call-Center-Performance-Analytics-Dashboard)
 
@@ -214,6 +217,8 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 #### Tools Used:
 
 `SQL Server` | `SSMS` | `Draw.io` | `Notion` | `GitHub`
+
+<br>
 
 - **Explored and analyzed business requirements** to define objectives, data needs, project scope, and deliverables.
   
@@ -234,7 +239,7 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 - **Used GitHub for version control and project tracking** to ensure transparency, traceability, and collaboration.  
 
 
-
+<br>
 
 🔗 **View Full Project:** [Modern SQL Data Warehouse Building & Analytics](https://github.com/IamOmarDarwesh/Modern-SQL-Data-Warehouse-Building-Analytics)
 
@@ -250,8 +255,12 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 
 #### Tools:
 
-`SQL`|`MySQL`|`Python`|`Jupyter Notebook`|`Power BI`|`Figma`|`PowerPoint`
 
+
+`SQL`, `MySQL`, `Python`, `Jupyter Notebook`, `Power BI`, `Figma`, `PowerPoint`
+
+
+<br>
 
 - Focused on **SDG 6.1.1 – Access to Safely Managed Drinking Water**, aiming to ensure clean and safe water for all in Maji Ndogo.
   
@@ -273,7 +282,7 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
    
 - Achieved a **transformative impact**, with **~18 million people** gaining access to clean water and living conditions improving significantly.  
 
-
+<br>
 
 🔗 **View Full Project:** [Sustainable Data-Driven Solutions through Data Analysis of Water Crisis](https://github.com/IamOmarDarwesh/Sustainable-Data-Driven-Solutions-through-Data-Analysis-of-Water-Crisis)
 
