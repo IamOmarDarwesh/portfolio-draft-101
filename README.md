@@ -42,6 +42,33 @@
 
 ---
 
+<span style="white-space:nowrap;">
+  <a href="https://www.microsoft.com/microsoft-365/excel">
+    <img src="assets/imgs-tools&technologies/excel.png" style="display:inline-block;"/>
+  </a>
+  <a href="https://www.w3schools.com/sql/">
+    <img src="assets/imgs-tools&technologies/sql-database-generic.svg" style="display:inline-block;"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="assets/imgs-tools&technologies/Python.svg" style="display:inline-block;"/>
+  </a>
+  <a href="https://www.google.com/sheets/about/">
+    <img src="assets/imgs-tools&technologies/google-sheets.png" style="display:inline-block;"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Comma-separated_values">
+    <img src="assets/imgs-tools&technologies/csv.png" style="display:inline-block;"/>
+  </a>
+  <a href="https://www.microsoft.com/sql-server">
+    <img src="assets/imgs-tools&technologies/ms-sql-server.png" style="display:inline-block;"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="assets/imgs-tools&technologies/mysql.svg" style="display:inline-block;"/>
+  </a>
+</span>
+
+
+---
+
 <div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
   <a href="#"><img src="assets/imgs-tools&technologies/Jupyter-notebook.svg" ></a>
   <a href="#"><img src="assets/imgs-tools&technologies/google-colab.png" ></a>
