@@ -1,12 +1,7 @@
 title: ""
 
 
-remote_theme: "cloudstitch-examples/portfolio"
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-
+remote_theme: daviddarnes/alembic
 
 
 
