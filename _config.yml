@@ -1,8 +1,11 @@
 title: ""
 
 
-remote_theme: "whenfung/simple"
+remote_theme: "cloudstitch-examples/portfolio"
 
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
 
 
 
