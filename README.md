@@ -1,6 +1,8 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
 Hi there 👋, 
 
@@ -63,7 +65,7 @@ A key focus throughout was making insights easily understandable for **non-techn
 <br>
 <br>
 
-In Jupyter Notebook, Google Colab & VS Code,
+In **Jupyter Notebook**, **Google Colab** & **VS Code**,
 
 [![Jupyter Notebook](assets/imgs-tools&technologies/Jupyter-notebook.svg)](https://jupyter.org/)[![Google Colab](assets/imgs-tools&technologies/google-colab.png)](https://colab.research.google.com/)[![VS Code](assets/imgs-tools&technologies/Visual-Studio-Code.png)](https://code.visualstudio.com/)
 
@@ -74,12 +76,11 @@ In Jupyter Notebook, Google Colab & VS Code,
 
 I used  **Excel**, **SQL**, **Python**, **Google Sheets** for Exploring and Cleaning data existing in files like CSVs and databases like Microsoft SQL Server & MySQL.
 
+<br>
 
 [![Excel](assets/imgs-tools&technologies/excel.png)](https://www.microsoft.com/microsoft-365/excel)  [![SQL](assets/imgs-tools&technologies/sql-database-generic.svg)](https://www.w3schools.com/sql/) [![Python](assets/imgs-tools&technologies/Python.svg)](https://www.python.org/)
 
 [![Google Sheets](assets/imgs-tools&technologies/google-sheets.png)](https://www.google.com/sheets/about/)
-
-
 
 
 <br>
@@ -99,7 +100,7 @@ I used  **Excel**, **SQL**, **Python**, **Google Sheets** for Exploring and Clea
 I used **Figma**, **PowerPoint** and **draw.io** for Sketching and Designing a dashboard/report.
 
 
-
+<br>
 
 [![Figma](assets/imgs-tools&technologies/figma.png)](https://www.figma.com/)
 [![PowerPoint](assets/imgs-tools&technologies/powerpoint.png)](https://www.microsoft.com/microsoft-365/powerpoint)
@@ -113,6 +114,8 @@ I used **Figma**, **PowerPoint** and **draw.io** for Sketching and Designing a d
 <br>
 
 I experienced different visualization tools like **Power BI, Tableau, Looker Studio, and Python**.
+
+<br>
 
 [![Power BI](assets/imgs-tools&technologies/ms-power-bi.svg)](https://powerbi.microsoft.com/) 
 [![Tableau](assets/imgs-tools&technologies/Tableau.svg)](https://www.tableau.com/)
@@ -131,6 +134,7 @@ I experienced different visualization tools like **Power BI, Tableau, Looker Stu
 
 A few examples of the type of visualizations I created are like these:
 
+<br>
 
 ![national-overview](assets/imgs-projects/maji-ndogo/national-overview.png) 
 
