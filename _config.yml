@@ -1,8 +1,7 @@
 title: ""
 
-remote_theme: "edwardtufte/tufte-jekyll"  # or appropriate repo depending on version :contentReference[oaicite:1]{index=1}  
+remote_theme: "thebiggeek/jekyll-serif-theme"  # Serif theme by TheBigGeek :contentReference[oaicite:2]{index=2}  
 plugins:
   - jekyll-remote-theme
-  - jekyll-seo-tag
-
+  - jekyll-feed
   
