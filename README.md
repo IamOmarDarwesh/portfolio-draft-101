@@ -219,32 +219,16 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 #### Tools:
 
 
-
+`SQL`        `MySQL`       `Python`       | `Jupyter Notebook`       | `Power BI`       | `Figma`       | `PowerPoint`
 
 
 
 `SQL` - `MySQL` - `Python` - `Jupyter Notebook` - `Power BI` - `Figma` - `PowerPoint`
 
 
-
-
-
-`SQL`&nbsp;&nbsp;|&nbsp;&nbsp;`MySQL`&nbsp;&nbsp;|&nbsp;&nbsp;`Python`&nbsp;&nbsp;|&nbsp;&nbsp;`Jupyter Notebook`&nbsp;&nbsp;|&nbsp;&nbsp;`Power BI`&nbsp;&nbsp;|&nbsp;&nbsp;`Figma`&nbsp;&nbsp;|&nbsp;&nbsp;`PowerPoint`
-
-
-
 `SQL`       | `MySQL`       | `Python`       | `Jupyter Notebook`       | `Power BI`       | `Figma`       | `PowerPoint`
 
 
-
-
-<code>SQL</code> &nbsp;&nbsp;|&nbsp;&nbsp; <code>MySQL</code> &nbsp;&nbsp;|&nbsp;&nbsp; <code>Python</code> &nbsp;&nbsp;|&nbsp;&nbsp; <code>Jupyter Notebook</code> &nbsp;&nbsp;|&nbsp;&nbsp; <code>Power BI</code> &nbsp;&nbsp;|&nbsp;&nbsp; <code>Figma</code> &nbsp;&nbsp;|&nbsp;&nbsp; <code>PowerPoint</code>
-
-
-
-
-
-`SQL`&nbsp;&nbsp;|&nbsp;&nbsp;`MySQL`&nbsp;&nbsp;|&nbsp;&nbsp;`Python`&nbsp;&nbsp;|&nbsp;&nbsp;`Jupyter Notebook`&nbsp;&nbsp;|&nbsp;&nbsp;`Power BI`&nbsp;&nbsp;|&nbsp;&nbsp;`Figma`&nbsp;&nbsp;|&nbsp;&nbsp;`PowerPoint`
 
 
 ---
