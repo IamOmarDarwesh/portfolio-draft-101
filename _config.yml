@@ -3,7 +3,16 @@ title: ""
 
 
 
-theme: minima
+# Source - https://stackoverflow.com/a
+# Posted by dabell, modified by community. See post 'Timeline' for change history
+# Retrieved 2025-11-17, License - CC BY-SA 4.0
+
+# In _config.yml
+# theme: minima
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
 minima:
-  skin: auto  # newer versions support 'auto', 'light', 'dark'
+  skin: auto # dark # Or auto if you want it to switch with your system settings.
+
 
