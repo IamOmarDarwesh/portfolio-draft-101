@@ -228,28 +228,32 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 
 ---
 
-SQL | MySQL | Python | Jupyter Notebook | Power BI | Figma | PowerPoint
-SQL - MySQL - Python - Jupyter Notebook - Power BI - Figma - PowerPoint
-SQL • MySQL • Python • Jupyter Notebook • Power BI • Figma • PowerPoint
-SQL · MySQL · Python · Jupyter Notebook · Power BI · Figma · PowerPoint
-SQL / MySQL / Python / Jupyter Notebook / Power BI / Figma / PowerPoint
-SQL , MySQL , Python , Jupyter Notebook , Power BI , Figma , PowerPoint
-SQL ; MySQL ; Python ; Jupyter Notebook ; Power BI ; Figma ; PowerPoint
+`SQL` | `MySQL` | `Python` | `Jupyter Notebook` | `Power BI` | `Figma` | `PowerPoint`
+`SQL` - `MySQL` - `Python` - `Jupyter Notebook` - `Power BI` - `Figma` - `PowerPoint`
+`SQL` • `MySQL` • `Python` • `Jupyter Notebook` • `Power BI` • `Figma` • `PowerPoint`
+`SQL` · `MySQL` · `Python` · `Jupyter Notebook` · `Power BI` · `Figma` · `PowerPoint`
+`SQL` / `MySQL` / `Python` / `Jupyter Notebook` / `Power BI` / `Figma` / `PowerPoint`
+`SQL` , `MySQL` , `Python` , `Jupyter Notebook` , `Power BI` , `Figma` , `PowerPoint`
+`SQL` ; `MySQL` ; `Python` ; `Jupyter Notebook` ; `Power BI` ; `Figma` ; `PowerPoint`
 
 
-SQL → MySQL → Python → Jupyter Notebook → Power BI → Figma → PowerPoint
-SQL ⇒ MySQL ⇒ Python ⇒ Jupyter Notebook ⇒ Power BI ⇒ Figma ⇒ PowerPoint
-SQL » MySQL » Python » Jupyter Notebook » Power BI » Figma » PowerPoint
 
-SQL ~ MySQL ~ Python ~ Jupyter Notebook ~ Power BI ~ Figma ~ PowerPoint
-SQL + MySQL + Python + Jupyter Notebook + Power BI + Figma + PowerPoint
-SQL ∘ MySQL ∘ Python ∘ Jupyter Notebook ∘ Power BI ∘ Figma ∘ PowerPoint
-SQL -·- MySQL -·- Python -·- Jupyter Notebook -·- Power BI -·- Figma -·- PowerPoint
+`SQL` → `MySQL` → `Python` → `Jupyter Notebook` → `Power BI` → `Figma` → `PowerPoint`
+`SQL` ⇒ `MySQL` ⇒ `Python` ⇒ `Jupyter Notebook` ⇒ `Power BI` ⇒ `Figma` ⇒ `PowerPoint`
+`SQL` » `MySQL` » `Python` » `Jupyter Notebook` » `Power BI` » `Figma` » `PowerPoint`
 
-SQL ✦ MySQL ✦ Python ✦ Jupyter Notebook ✦ Power BI ✦ Figma ✦ PowerPoint
-SQL ★ MySQL ★ Python ★ Jupyter Notebook ★ Power BI ★ Figma ★ PowerPoint
-SQL ✪ MySQL ✪ Python ✪ Jupyter Notebook ✪ Power BI ✪ Figma ✪ PowerPoint
-SQL ☆ MySQL ☆ Python ☆ Jupyter Notebook ☆ Power BI ☆ Figma ☆ PowerPoint
+
+`SQL` ~ `MySQL` ~ `Python` ~ `Jupyter Notebook` ~ `Power BI` ~ `Figma` ~ `PowerPoint`
+`SQL` + `MySQL` + `Python` + `Jupyter Notebook` + `Power BI` + `Figma` + `PowerPoint`
+`SQL` ∘ `MySQL` ∘ `Python` ∘ `Jupyter Notebook` ∘ `Power BI` ∘ `Figma` ∘ `PowerPoint`
+`SQL` -·- `MySQL` -·- `Python` -·- `Jupyter Notebook` -·- `Power BI` -·- `Figma` -·- `PowerPoint`
+
+
+`SQL` ✦ `MySQL` ✦ `Python` ✦ `Jupyter Notebook` ✦ `Power BI` ✦ `Figma` ✦ `PowerPoint`
+`SQL` ★ `MySQL` ★ `Python` ★ `Jupyter Notebook` ★ `Power BI` ★ `Figma` ★ `PowerPoint`
+`SQL` ✪ `MySQL` ✪ `Python` ✪ `Jupyter Notebook` ✪ `Power BI` ✪ `Figma` ✪ `PowerPoint`
+`SQL` ☆ `MySQL` ☆ `Python` ☆ `Jupyter Notebook` ☆ `Power BI` ☆ `Figma` ☆ `PowerPoint`
+
 
 
 ---
