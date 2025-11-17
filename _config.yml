@@ -13,6 +13,9 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
   - jekyll-feed: false
+
+exclude:
+  - feed.xml  
 minima:
   skin: auto # dark # Or auto if you want it to switch with your system settings.
 
