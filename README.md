@@ -30,6 +30,7 @@ I'm a Computer Science postgraduate with an analytical mindset and enthusiasm fo
 ![ALX Afric](assets/imgs-experiences/alx-africa.jpg)
 
 - Worked on multiple assignments with tight deadlines.
+  
 - Gained expertise in **SQL**, **Python**, **Power BI**, and other key data analysis tools.
 
 
@@ -43,6 +44,7 @@ I'm a Computer Science postgraduate with an analytical mindset and enthusiasm fo
 ![ITI Logo](assets/imgs-experiences/ITI.png)
 
 - Acquired advanced skills in **data cleaning**, **data analysis**, **visualization**, and **reporting**.
+  
 - Worked with a variety of tools such as **SQL**, **Excel**, **Python**, **Power BI**, **Tableau**, and more.
 
 <br>
@@ -67,6 +69,8 @@ A key focus throughout was making insights easily understandable for **non-techn
 
 In **Jupyter Notebook**, **Google Colab** & **VS Code**,
 
+<br>
+
 [![Jupyter Notebook](assets/imgs-tools&technologies/Jupyter-notebook.svg)](https://jupyter.org/)[![Google Colab](assets/imgs-tools&technologies/google-colab.png)](https://colab.research.google.com/)[![VS Code](assets/imgs-tools&technologies/Visual-Studio-Code.png)](https://code.visualstudio.com/)
 
 
@@ -79,12 +83,7 @@ I used  **Excel**, **SQL**, **Python**, **Google Sheets** for Exploring and Clea
 <br>
 
 [![Excel](assets/imgs-tools&technologies/excel.png)](https://www.microsoft.com/microsoft-365/excel)  [![SQL](assets/imgs-tools&technologies/sql-database-generic.svg)](https://www.w3schools.com/sql/) [![Python](assets/imgs-tools&technologies/Python.svg)](https://www.python.org/)
-
 [![Google Sheets](assets/imgs-tools&technologies/google-sheets.png)](https://www.google.com/sheets/about/)
-
-
-<br>
-
 [![CSV](assets/imgs-tools&technologies/csv.png)](https://en.wikipedia.org/wiki/Comma-separated_values)
 [![SQL Server](assets/imgs-tools&technologies/ms-sql-server.png)](https://www.microsoft.com/sql-server)
 [![MySQL](assets/imgs-tools&technologies/mysql.svg)](https://www.mysql.com/)
@@ -184,13 +183,19 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 `Power BI` | `DAX` | `Excel` | `Figma`
 
 - Defined **business objectives, KPIs, and performance metrics** to guide strategic growth.
+  
 - **Sketched and designed** intuitive dashboard layouts for clear and digestible data visualization.
-- Developed an **interactive Power BI dashboard** to analyze and optimize call center performance.  
-- Discovered that **40% of abandoned calls** occurred during two peak hours → optimized agent scheduling.  
+  
+- Developed an **interactive Power BI dashboard** to analyze and optimize call center performance.
+  
+- Discovered that **40% of abandoned calls** occurred during two peak hours → optimized agent scheduling.
+   
 - Recommended **adjusting operating hours (earlier closing time) (6 PM → 5 PM)** to reduce cost and reallocate staff to peak demand.  
 
-- Identified low-resolution areas (Technical Support, Payment) and proposed **targeted training plans** for agents..  
-- Delivered **real-time analytics** on agent behavior, handle time, and customer satisfaction trends.  
+- Identified low-resolution areas (Technical Support, Payment) and proposed **targeted training plans** for agents.
+  
+- Delivered **real-time analytics** on agent behavior, handle time, and customer satisfaction trends.
+  
 - Empowered stakeholders with **actionable insights and data-backed recommendations** for smarter, cost-efficient decision-making that improved service quality and operational efficiency.
 
 
@@ -211,14 +216,21 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 `SQL Server` | `SSMS` | `Draw.io` | `Notion` | `GitHub`
 
 - **Explored and analyzed business requirements** to define objectives, data needs, project scope, and deliverables.
+  
 - **Planned and structured the project in Notion**, organizing all stages — from architecture design to validation and documentation — with clearly defined phases, timelines, and milestones.
+  
 - **Designed the data warehouse architecture** in Draw.io, following the **Medallion Architecture** (Bronze–Silver–Gold).
   
-- **Built a modern SQL data warehouse** integrating data from **ERP and CRM systems** (CSV sources).  
-- **Implemented ETL pipelines** for data ingestion, validation, integration, and transformation across layered architecture.  
-- **Performed data profiling, quality checks, cleansing, and standardization** in the Silver layer to ensure accuracy, consistency, and reliability.  
-- **Modeled the Gold layer** using a **star schema** with fact and dimension tables optimized for analytics (business-ready data).  
-- **Developed SQL-based analytics** to uncover insights into sales trends, customer behavior, and product performance.  
+- **Built a modern SQL data warehouse** integrating data from **ERP and CRM systems** (CSV sources).
+   
+- **Implemented ETL pipelines** for data ingestion, validation, integration, and transformation across layered architecture.
+  
+- **Performed data profiling, quality checks, cleansing, and standardization** in the Silver layer to ensure accuracy, consistency, and reliability.
+  
+- **Modeled the Gold layer** using a **star schema** with fact and dimension tables optimized for analytics (business-ready data).
+  
+- **Developed SQL-based analytics** to uncover insights into sales trends, customer behavior, and product performance.
+   
 - **Used GitHub for version control and project tracking** to ensure transparency, traceability, and collaboration.  
 
 
@@ -241,16 +253,24 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 `SQL`|`MySQL`|`Python`|`Jupyter Notebook`|`Power BI`|`Figma`|`PowerPoint`
 
 
-- Focused on **SDG 6.1.1 – Access to Safely Managed Drinking Water**, aiming to ensure clean and safe water for all in Maji Ndogo.  
+- Focused on **SDG 6.1.1 – Access to Safely Managed Drinking Water**, aiming to ensure clean and safe water for all in Maji Ndogo.
+  
 - Connected to a **MySQL database** and conducted deep **SQL-based exploration, cleaning, and transformation** of water source data directly in **Jupyter Notebook**, with light Python support for additional processing.
   
-- Used **Power BI** to visualize insights and craft **data storytelling dashboards** for long-term impact tracking and transparent decision-making.  
-- Designed dashboard mockups and story flow in **Figma and PowerPoint** to align visuals with the analytical narrative.  
-- Discovered that only **33% (≈9M of 28M people)** had access to safe drinking water and identified urgent action zones.  
-- Revealed over **25,000 contaminated or failing water sources** requiring immediate attention and categorized issues by source type (tap, well, shared tap, river).  
-- Prioritized interventions for **most vulnerable regions**, implementing **quick temporary fixes** and **long-term sustainable solutions**.  
-- Exposed broader social issues like **crime risks** for women and children traveling long distances for water, emphasizing the human dimension of data.  
-- Delivered actionable insights that guided new wells, repairs, and equitable water distribution — improving quality of life and community resilience.  
+- Used **Power BI** to visualize insights and craft **data storytelling dashboards** for long-term impact tracking and transparent decision-making.
+   
+- Designed dashboard mockups and story flow in **Figma and PowerPoint** to align visuals with the analytical narrative.
+  
+- Discovered that only **33% (≈9M of 28M people)** had access to safe drinking water and identified urgent action zones.
+   
+- Revealed over **25,000 contaminated or failing water sources** requiring immediate attention and categorized issues by source type (tap, well, shared tap, river).
+  
+- Prioritized interventions for **most vulnerable regions**, implementing **quick temporary fixes** and **long-term sustainable solutions**.
+  
+- Exposed broader social issues like **crime risks** for women and children traveling long distances for water, emphasizing the human dimension of data.
+  
+- Delivered actionable insights that guided new wells, repairs, and equitable water distribution — improving quality of life and community resilience.
+   
 - Achieved a **transformative impact**, with **~18 million people** gaining access to clean water and living conditions improving significantly.  
 
 
