@@ -216,9 +216,23 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 ### Problem-Solving and Transformative Data Analysis & Insights for Sustainable Solutions  
 > *Turning data into action —— using SQL, Power BI, and analytics to bring clean water, equity, and hope to millions.*  
 
+#### Tools:
+
 **SQL | MySQL | Python | Jupyter Notebook | Power BI | Figma | PowerPoint**
 
 `SQL` | `MySQL` | `Python` | `Jupyter Notebook` | `Power BI` | `Figma` | `PowerPoint`
+
+**Tools:**  
+
+<div style="margin: 10px 0;">
+  <span style="display:inline-block; background:#4da3ff; color:white; padding:4px 10px; border-radius:5px; margin:2px;">SQL</span>
+  <span style="display:inline-block; background:#4da3ff; color:white; padding:4px 10px; border-radius:5px; margin:2px;">MySQL</span>
+  <span style="display:inline-block; background:#4da3ff; color:white; padding:4px 10px; border-radius:5px; margin:2px;">Python</span>
+  <span style="display:inline-block; background:#4da3ff; color:white; padding:4px 10px; border-radius:5px; margin:2px;">Jupyter Notebook</span>
+  <span style="display:inline-block; background:#4da3ff; color:white; padding:4px 10px; border-radius:5px; margin:2px;">Power BI</span>
+  <span style="display:inline-block; background:#4da3ff; color:white; padding:4px 10px; border-radius:5px; margin:2px;">Figma</span>
+  <span style="display:inline-block; background:#4da3ff; color:white; padding:4px 10px; border-radius:5px; margin:2px;">PowerPoint</span>
+</div>
 
 
 - Focused on **SDG 6.1.1 – Access to Safely Managed Drinking Water**, aiming to ensure clean and safe water for all in Maji Ndogo.  
