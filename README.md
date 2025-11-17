@@ -5,6 +5,12 @@
 <a href="https://jupyter.org/"><img src="assets/imgs-tools&technologies/Jupyter-notebook.svg"  style="display:inline-block;"/></a>
 <a href="https://colab.research.google.com/"><img src="assets/imgs-tools&technologies/google-colab.png"  style="display:inline-block;"/></a>
 <a href="https://code.visualstudio.com/"><img src="assets/imgs-tools&technologies/Visual-Studio-Code.png"  style="display:inline-block;"/></a>
+<a href="https://jupyter.org/"><img src="assets/imgs-tools&technologies/Jupyter-notebook.svg"  style="display:inline-block;"/></a>
+<a href="https://colab.research.google.com/"><img src="assets/imgs-tools&technologies/google-colab.png"  style="display:inline-block;"/></a>
+<a href="https://code.visualstudio.com/"><img src="assets/imgs-tools&technologies/Visual-Studio-Code.png"  style="display:inline-block;"/></a>
+<a href="https://jupyter.org/"><img src="assets/imgs-tools&technologies/Jupyter-notebook.svg"  style="display:inline-block;"/></a>
+<a href="https://colab.research.google.com/"><img src="assets/imgs-tools&technologies/google-colab.png"  style="display:inline-block;"/></a>
+<a href="https://code.visualstudio.com/"><img src="assets/imgs-tools&technologies/Visual-Studio-Code.png"  style="display:inline-block;"/></a>
 </span>
 
 ---
