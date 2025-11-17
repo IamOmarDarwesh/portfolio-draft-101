@@ -1,7 +1,11 @@
 title: ""
 
 
+remote_theme: "scotte/particle"
 
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
 
 
 
