@@ -1,23 +1,11 @@
 title: ""
 
 
-
-
-# Source - https://stackoverflow.com/a
-# Posted by dabell, modified by community. See post 'Timeline' for change history
-# Retrieved 2025-11-17, License - CC BY-SA 4.0
-
-# In _config.yml
-# theme: minima
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
-  - jekyll-feed: false
-
-exclude:
-  - feed.xml  
 minima:
-  skin: auto # dark # Or auto if you want it to switch with your system settings.
+  skin: classic # auto # OR dark # OR light
   hide_site_feed_link: true
 
 
