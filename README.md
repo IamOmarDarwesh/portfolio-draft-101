@@ -11,10 +11,20 @@
 
 
 <span style="white-space:nowrap;">
-<a href="https://jupyter.org/"><img src="assets/imgs-tools&technologies/Jupyter-notebook.svg" height="24"></a>&nbsp;
-<a href="https://colab.research.google.com/"><img src="assets/imgs-tools&technologies/google-colab.png" height="24"></a>&nbsp;
-<a href="https://code.visualstudio.com/"><img src="assets/imgs-tools&technologies/Visual-Studio-Code.png" height="24"></a>
+<a href="https://jupyter.org/"><img src="assets/imgs-tools&technologies/Jupyter-notebook.svg" ></a>&nbsp;
+<a href="https://colab.research.google.com/"><img src="assets/imgs-tools&technologies/google-colab.png" ></a>&nbsp;
+<a href="https://code.visualstudio.com/"><img src="assets/imgs-tools&technologies/Visual-Studio-Code.png" ></a>
 </span>
+
+
+---
+
+<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
+  <a href="#"><img src="assets/imgs-tools&technologies/Jupyter-notebook.svg" ></a>
+  <a href="#"><img src="assets/imgs-tools&technologies/google-colab.png" ></a>
+  <a href="#"><img src="assets/imgs-tools&technologies/Visual-Studio-Code.png" ></a>
+
+</div>
 
 
 ---
