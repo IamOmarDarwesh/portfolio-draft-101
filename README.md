@@ -66,7 +66,7 @@ A key focus throughout was making insights easily understandable for **non-techn
 
 In Jupyter Notebook, Google Colab & VS Code,
 
-[![Jupyter Notebook](assets/imgs-tools&technologies/Jupyter-notebook.svg)](https://jupyter.org/) [![Google Colab](assets/imgs-tools&technologies/google-colab.png)](https://colab.research.google.com/) [![VS Code](assets/imgs-tools&technologies/Visual-Studio-Code.png)](https://code.visualstudio.com/)
+[![Jupyter Notebook](assets/imgs-tools&technologies/Jupyter-notebook.svg)](https://jupyter.org/)[![Google Colab](assets/imgs-tools&technologies/google-colab.png)](https://colab.research.google.com/)[![VS Code](assets/imgs-tools&technologies/Visual-Studio-Code.png)](https://code.visualstudio.com/)
 
 
 <br>
