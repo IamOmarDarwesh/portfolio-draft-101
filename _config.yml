@@ -2,9 +2,5 @@ title: ""
 
 
 remote_theme: riggraz/no-style-please
-include:
-  - _includes/custom-head.html
 
-sass:
-  style: compressed
 
