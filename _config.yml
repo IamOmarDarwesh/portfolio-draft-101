@@ -1,7 +1,46 @@
 title: ""
 
-remote_theme: "kreinloo/jekyll-theme-hackcss"
+# Typography settings (Fonts) using extra_head injection
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      extra_head: |
+        <!-- Google Fonts -->
+        <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+        <style>
+          /* Body text font (serif) */
+          body {
+            font-family: 'Merriweather', serif;
+            font-size: 18px;
+            line-height: 1.7;
+            color: #333;
+          }
 
-font:
-  body: "Lora, serif"
-  heading: "Raleway, sans-serif"
+          /* Heading font (sans-serif) */
+          h1, h2, h3, h4, h5, h6 {
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 700;
+            margin-top: 1.5em;
+            margin-bottom: 0.5em;
+          }
+
+          /* Links and text styles */
+          a {
+            color: #1a73e8;
+            text-decoration: none;
+          }
+          a:hover {
+            text-decoration: underline;
+          }
+
+          /* Optional: nice blockquote styling */
+          blockquote {
+            border-left: 4px solid #ddd;
+            padding-left: 1em;
+            color: #555;
+            font-style: italic;
+          }
+        </style>
