@@ -29,7 +29,7 @@
 ---
 
 
-<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
+<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center; width:100%;">
   <a href="https://www.microsoft.com/microsoft-365/excel"><img src="assets/imgs-tools&technologies/excel.png"/></a>
   <a href="https://www.w3schools.com/sql/"><img src="assets/imgs-tools&technologies/sql-database-generic.svg"/></a>
   <a href="https://www.python.org/"><img src="assets/imgs-tools&technologies/Python.svg"/></a>
