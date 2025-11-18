@@ -61,6 +61,12 @@ I'm a Computer Science postgraduate with an analytical mindset and a deep enthus
 
 ---
 
+
+
+
+
+```
+
 > I primarily worked on developing deliverables such as presentations, dashboards, and reports using tools like **SQL**, **Python**, **Power BI**, **Excel**, **Google Sheets**, **PowerPoint**, **Figma**, and others as needed.
 
 
@@ -74,6 +80,8 @@ I'm a Computer Science postgraduate with an analytical mindset and a deep enthus
 
 
 > A key focus throughout was making insights easily understandable for **non-technical stakeholders**, so that data-driven decisions could be made with clarity and confidence.
+
+```
 
 ---
 
