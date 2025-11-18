@@ -400,7 +400,7 @@ My goal here is to build scalable, reliable, and maintainable data solutions tha
 
   <p>Looking forward to hearing from you!
 
-
+</div>
 
 <br>
 <br>
