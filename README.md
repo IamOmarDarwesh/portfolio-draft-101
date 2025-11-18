@@ -64,6 +64,22 @@ Let me introduce myself.
 
 ---
 
+> [!NOTE]
+> I primarily worked on developing deliverables such as presentations, dashboards, and reports using tools like **SQL**, **Python**, **Power BI**, **Excel**, **Google Sheets**, **PowerPoint**, **Figma**, and others as needed.
+>
+> My workflow usually started with exploring and understanding the data — assessing its quality, identifying any issues, and defining suitable approaches to address them.
+>
+> Once the data challenges were tackled and multiple sources were integrated where necessary, I moved on to the design phase.
+>
+> I began by sketching and shaping the structure of dashboards and reports, ensuring they were not only visually appealing but also informative and purposeful.
+>
+> From there, I built comprehensive dashboards that clearly presented **KPIs** and performance metrics aligned with business objectives.
+>
+> A key focus throughout was making insights easily understandable for **non-technical stakeholders**, so that data-driven decisions could be made with clarity and confidence.
+
+
+---
+
 <br>
 <br>
 <br>
