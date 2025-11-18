@@ -388,25 +388,16 @@ My goal here is to build scalable, reliable, and maintainable data solutions tha
 
 
 <div align="center">
+  <p>Thanks for visiting my Profile!</p>
+  <p>If you like to connect, collaborate, or just say hello,</p>
+  <p>feel free to reach out through any of the links below:</p>
 
-Thanks for visiting my Profile!
- 
- 
- If you like to connect, collaborate, or just say hello, 
- 
- 
- feel free to reach out through any of the links below:
+  <a href="https://github.com/IamOmarDarwesh"><img src="assets/imgs-icons-contacts/Github.svg" alt="GitHub" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/iamomardarwesh/"><img src="assets/imgs-icons-contacts/Linkedin.svg" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:omarelsayeddarwesh@gmail.com"><img src="assets/imgs-icons-contacts/Gmail.svg" alt="Gmail" /></a>&nbsp;
+  <a href="https://wa.me/201002949020"><img src="assets/imgs-icons-contacts/WhatsApp.svg" alt="WhatsApp" /></a>
 
-  
-<a href="https://github.com/IamOmarDarwesh"><img src="assets/imgs-icons-contacts/Github.svg" alt="GitHub" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/iamomardarwesh/"><img src="assets/imgs-icons-contacts/Linkedin.svg" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:omarelsayeddarwesh@gmail.com"><img src="assets/imgs-icons-contacts/Gmail.svg" alt="Gmail" /></a>&nbsp;
-<a href="https://wa.me/201002949020"><img src="assets/imgs-icons-contacts/WhatsApp.svg" alt="WhatsApp" /></a>
-
-  
-Looking forward to hearing from you!
-
-
+  <p>Looking forward to hearing from you!
 </div>
 
 <br>
