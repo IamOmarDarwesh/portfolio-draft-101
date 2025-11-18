@@ -14,6 +14,17 @@ Let me introduce myself.
 
 > **Data Analysis** & **Analytics Engineering**.
 
+```
+
+I'm Omar Darwesh.
+
+I'm a Computer Science postgraduate with an analytical mindset and a deep enthusiasm for
+
+**Data Analysis** & **Analytics Engineering**.
+
+```
+
+
 <br>
 <br>
 <br>
