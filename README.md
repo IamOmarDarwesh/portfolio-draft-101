@@ -6,18 +6,13 @@
 
 Hi there 👋, 
 
-
 Let me introduce myself. 
 
+> I'm Omar Darwesh.
 
-I'm Omar Darwesh.
+> I'm a Computer Science postgraduate with an analytical mindset and a deep enthusiasm for
 
-
-I'm a Computer Science postgraduate with an analytical mindset and a deep enthusiasm for
-
-**Data Analysis**, **Analytics Engineering**, and **Data Engineering**.
-
-
+> **Data Analysis** & **Analytics Engineering**.
 
 <br>
 <br>
@@ -35,7 +30,6 @@ I'm a Computer Science postgraduate with an analytical mindset and a deep enthus
 - Worked on multiple assignments with tight deadlines.
   
 - Gained expertise in **SQL**, **Python**, **Power BI**, and other key data analysis tools.
-
 
 <br>
 <br>
@@ -56,13 +50,13 @@ I'm a Computer Science postgraduate with an analytical mindset and a deep enthus
 
 ---
 
-On a typical day, I worked on developing deliverables such as presentations, dashboards, and reports using tools like **SQL**, **Python**, **Power BI**, **Excel**, **Google Sheets**, **PowerPoint**, **Figma**, and others as needed.
+* I usually work on developing deliverables such as presentations, dashboards, and reports using tools like **SQL**, **Python**, **Power BI**, **Excel**, **Google Sheets**, **PowerPoint**, **Figma**, and others as needed.
 
-My workflow usually started with exploring and understanding the data—assessing its quality, identifying any issues, and defining suitable approaches to address them. Once the data challenges were tackled and multiple sources were integrated where necessary, I moved on to the design phase.
+* My workflow usually started with exploring and understanding the data — assessing its quality, identifying any issues, and defining suitable approaches to address them. Once the data challenges were tackled and multiple sources were integrated where necessary, I moved on to the design phase.
 
-I began by sketching and shaping the structure of dashboards and reports, ensuring they were not only visually appealing but also informative and purposeful. From there, I built comprehensive dashboards that clearly presented **KPIs** and performance metrics aligned with business objectives.
+* I began by sketching and shaping the structure of dashboards and reports, ensuring they were not only visually appealing but also informative and purposeful. From there, I built comprehensive dashboards that clearly presented **KPIs** and performance metrics aligned with business objectives.
 
-A key focus throughout was making insights easily understandable for **non-technical stakeholders**, so that data-driven decisions could be made with clarity and confidence.
+* A key focus throughout was making insights easily understandable for **non-technical stakeholders**, so that data-driven decisions could be made with clarity and confidence.
 
 ---
 
@@ -75,7 +69,6 @@ In **Jupyter Notebook**, **Google Colab** & **VS Code**,
 <br>
 
 [![Jupyter Notebook](assets/imgs-tools&technologies/Jupyter-notebook.svg)](https://jupyter.org/)[![Google Colab](assets/imgs-tools&technologies/google-colab.png)](https://colab.research.google.com/)[![VS Code](assets/imgs-tools&technologies/Visual-Studio-Code.png)](https://code.visualstudio.com/)
-
 
 <br>
 <br>
@@ -92,25 +85,17 @@ I used  **Excel**, **SQL**, **Python**, **Google Sheets** for Exploring and Clea
 [![SQL Server](assets/imgs-tools&technologies/ms-sql-server.png)](https://www.microsoft.com/sql-server)
 [![MySQL](assets/imgs-tools&technologies/mysql.svg)](https://www.mysql.com/)
 
-
-
-
-
 <br>
 <br>
 <br>
 
 I used **Figma**, **PowerPoint** and **draw.io** for Sketching and Designing a dashboard/report.
 
-
 <br>
 
 [![Figma](assets/imgs-tools&technologies/figma.png)](https://www.figma.com/)
 [![PowerPoint](assets/imgs-tools&technologies/powerpoint.png)](https://www.microsoft.com/microsoft-365/powerpoint)
 [![draw.io](assets/imgs-tools&technologies/draw-io.svg)](https://www.diagrams.net/)
-
-
-
 
 <br>
 <br>
@@ -125,15 +110,9 @@ I experienced different visualization tools like **Power BI, Tableau, Looker Stu
 [![Looker Studio](assets/imgs-tools&technologies/google-looker-studio.png)](https://lookerstudio.google.com/) 
 [![Python](assets/imgs-tools&technologies/Python.svg)](https://www.python.org/)
 
-
-
-
-
-
 <br>
 <br>
 <br>
-
 
 A few examples of the type of visualizations I created are like these:
 
