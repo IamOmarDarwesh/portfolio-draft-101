@@ -20,7 +20,7 @@ I'm a Computer Science postgraduate with an analytical mindset and enthusiasm fo
 <br>
 <br>
 
-## Technical Experience
+# Technical Experience
 <br>
 
 ### **Data Science Trainee** 
@@ -301,7 +301,7 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 <br>
 <br>
 
-##  Certifications
+# Certifications
 
 I worked very hard to get certified by Microsoft in **Power BI** and **Azure Cloud**, aiming to deepen my knowledge and gain exposure to higher levels of use cases and data challenges at a more advanced level.
 
@@ -331,7 +331,7 @@ I worked very hard to get certified by Microsoft in **Power BI** and **Azure Clo
 <br>
 <br>
 
-## Education
+# Education
 
 I joined Cairo University to pursue an academic degree in Computer Science, driven by my ambition to deepen my technical expertise and grow as a professional in the field.
 
@@ -352,7 +352,7 @@ I joined Cairo University to pursue an academic degree in Computer Science, driv
 <br>
 <br>
 
-## Current Professional Development Focus
+# Current Professional Development Focus
 
 You might be wondering what I’ve been up to lately.
 
