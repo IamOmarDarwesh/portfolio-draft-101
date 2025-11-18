@@ -64,7 +64,7 @@ Let me introduce myself.
 
 ---
 
-> [!NOTE]
+> |
 > I primarily worked on developing deliverables such as presentations, dashboards, and reports using tools like **SQL**, **Python**, **Power BI**, **Excel**, **Google Sheets**, **PowerPoint**, **Figma**, and others as needed.
 >
 > My workflow usually started with exploring and understanding the data — assessing its quality, identifying any issues, and defining suitable approaches to address them.
@@ -76,6 +76,12 @@ Let me introduce myself.
 > From there, I built comprehensive dashboards that clearly presented **KPIs** and performance metrics aligned with business objectives.
 >
 > A key focus throughout was making insights easily understandable for **non-technical stakeholders**, so that data-driven decisions could be made with clarity and confidence.
+
+
+---
+
+> **Your Title (optional)**  
+> Your text goes here...
 
 
 ---
