@@ -399,8 +399,8 @@ My goal here is to build scalable, reliable, and maintainable data solutions tha
   <a href="https://wa.me/201002949020"><img src="assets/imgs-icons-contacts/WhatsApp.svg" alt="WhatsApp" /></a>
 
   <p>Looking forward to hearing from you!
-    
-</div>
+
+
 
 <br>
 <br>
