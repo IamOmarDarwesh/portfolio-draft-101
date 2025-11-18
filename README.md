@@ -54,11 +54,11 @@ Let me introduce myself.
 
 - My workflow usually started with exploring and understanding the data — assessing its quality, identifying any issues, and defining suitable approaches to address them.
 
-  - Once the data challenges were tackled and multiple sources were integrated where necessary, I moved on to the design phase.
+- Once the data challenges were tackled and multiple sources were integrated where necessary, I moved on to the design phase.
 
 - I began by sketching and shaping the structure of dashboards and reports, ensuring they were not only visually appealing but also informative and purposeful.
 
-  - From there, I built comprehensive dashboards that clearly presented **KPIs** and performance metrics aligned with business objectives.
+- From there, I built comprehensive dashboards that clearly presented **KPIs** and performance metrics aligned with business objectives.
 
 - A key focus throughout was making insights easily understandable for **non-technical stakeholders**, so that data-driven decisions could be made with clarity and confidence.
 
@@ -80,18 +80,17 @@ Let me introduce myself.
 
 ---
 
-> [!NOTE]
-> I primarily worked on developing deliverables such as presentations, dashboards, and reports using tools like **SQL**, **Python**, **Power BI**, **Excel**, **Google Sheets**, **PowerPoint**, **Figma**, and others as needed.
->
-> My workflow usually started with exploring and understanding the data — assessing its quality, identifying any issues, and defining suitable approaches to address them.
->
-> Once the data challenges were tackled and multiple sources were integrated where necessary, I moved on to the design phase.
->
-> I began by sketching and shaping the structure of dashboards and reports, ensuring they were not only visually appealing but also informative and purposeful.
->
-> From there, I built comprehensive dashboards that clearly presented **KPIs** and performance metrics aligned with business objectives.
->
-> A key focus throughout was making insights easily understandable for **non-technical stakeholders**, so that data-driven decisions could be made with clarity and confidence.
+- **I began my work by developing a variety of deliverables**—including presentations, dashboards, and reports—using tools such as **SQL**, **Python**, **Power BI**, **Excel**, **Google Sheets**, **PowerPoint**, **Figma**, and others as needed.
+
+  - **My workflow typically started with data exploration**, where I assessed data quality, identified issues, and determined the most effective approaches to address them.
+
+  - **After resolving the data challenges** and integrating multiple data sources when necessary, I transitioned into the design phase.
+
+    - During this stage, I **sketched and structured dashboards and reports**, ensuring they were visually clear, meaningful, and aligned with user needs.
+
+    - From there, I **built complete dashboards** that highlighted key **KPIs** and performance metrics aligned with business objectives.
+
+  - Throughout the entire process, **my focus was on making insights easy for non-technical stakeholders to understand**, enabling confident and meaningful data-driven decision-making.
 
 
 ---
