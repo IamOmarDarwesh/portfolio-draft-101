@@ -8,17 +8,7 @@ Hi there 👋,
 
 Let me introduce myself. 
 
-
-<div style="margin-left:20px">
-
-I'm Omar Darwesh.
-
-I'm a Computer Science postgraduate with an analytical mindset and a deep enthusiasm for
-
-**Data Analysis** & **Analytics Engineering**.
-
-</div>
-
+&nbsp;&nbsp;&nbsp;&nbsp; I'm Omar Darwesh.
 
 &nbsp;&nbsp;&nbsp;&nbsp; I'm a Computer Science postgraduate with an analytical mindset and a deep enthusiasm for
 
