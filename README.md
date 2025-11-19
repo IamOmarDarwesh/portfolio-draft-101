@@ -71,7 +71,10 @@ Let me introduce myself.
 >
 > Once the data challenges were tackled and multiple sources were integrated where necessary, I moved on to the design phase.
 >
-> I began by sketching and shaping the structure of dashboards and reports, ensuring they were not only visually appealing but also informative and purposeful.
+  -  During this stage, I began by sketching and shaping the structure of dashboards and reports, ensuring they were not only visually appealing but also informative and purposeful.
+      - ffggl
+      - lk,
+      - l;l;
 >
 > From there, I built comprehensive dashboards that clearly presented **KPIs** and performance metrics aligned with business objectives.
 >
