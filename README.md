@@ -348,7 +348,8 @@ You might be wondering what I’ve been up to lately.
 I’ve been focused on learning/mastering tools like **Fivetran**, **Airbyte**, **Airflow**, **dbt**, **BigQuery**, and **Metabase** through hands-on experience.
 
 
-Working to get comfortable with the full data pipeline, with a particular focus on mastering data transformation, alongside data ingestion, warehousing, orchestration, and analytics. 
+Working to get comfortable with the full data pipeline, with a particular focus on mastering data transformation, alongside data ingestion, warehousing, orchestration, and analytics.
+
 <br>
 
 [![Fivetran](assets/imgs-tools&technologies/Fivetran.svg)](https://www.fivetran.com/)
