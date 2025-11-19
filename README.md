@@ -49,6 +49,7 @@ Let me introduce myself.
 <br>
 
 ---
+---
 
 - I primarily worked on developing a variety of deliverables such as presentations, dashboards, and reports using tools like **SQL**, **Python**, **Power BI**, **Excel**, **Google Sheets**, **Google Slides**, **PowerPoint**, **Figma**, and others as needed.
 
@@ -63,6 +64,7 @@ Let me introduce myself.
 - A key focus throughout was making insights easily understandable for all kinds of audiences, especially **non-technical stakeholders**, so that data-driven decisions could be made with clarity and confidence.
 
 ---
+---
 
 > - I primarily worked on developing a variety of deliverables such as presentations, dashboards, and reports using tools like **SQL**, **Python**, **Power BI**, **Excel**, **Google Sheets**, **Google Slides**, **PowerPoint**, **Figma**, and others as needed.
 >
@@ -75,9 +77,7 @@ Let me introduce myself.
 >
 > - A key focus throughout was making insights easily understandable for all audiences, especially **non-technical stakeholders**, enabling clarity and confidence in decision-making.
 
-
 ---
-
 ---
 
 <br>
