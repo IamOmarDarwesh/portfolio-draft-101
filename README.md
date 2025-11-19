@@ -160,17 +160,18 @@ Let me introduce myself.
 
 ---
 
-- **I began my work by developing a variety of deliverables**—including presentations, dashboards, and reports—using tools such as **SQL**, **Python**, **Power BI**, **Excel**, **Google Sheets**, **PowerPoint**, **Figma**, and others as needed.
 
-  - **My workflow typically started with data exploration**, where I assessed data quality, identified issues, and determined the most effective approaches to address them.
-
-  - **After resolving the data challenges** and integrating multiple data sources when necessary, I transitioned into the design phase.
-
-    - During this stage, I **sketched and structured dashboards and reports**, ensuring they were visually clear, meaningful, and aligned with user needs.
-
-    - From there, I **built complete dashboards** that highlighted key **KPIs** and performance metrics aligned with business objectives.
-
-  - Throughout the entire process, **my focus was on making insights easy for non-technical stakeholders to understand**, enabling confident and meaningful data-driven decision-making.
+| - I primarily worked on developing a variety of deliverables such as presentations, dashboards, and reports using tools like **SQL**, **Python**, **Power BI**, **Excel**, **Google Sheets**, **Google Slides**, | **PowerPoint**, **Figma**, and others as needed.
+|
+|    - My workflow usually started with exploring and understanding the data — assessing its quality, identifying any issues, and defining suitable approaches to address them.
+|
+|    - Once the data challenges were resolved and multiple sources were integrated when necessary, I moved on to the design phase.
+|
+|       - Here, I began by sketching and shaping the structure of dashboards and reports, ensuring they were not only visually appealing but also clear, informative, purposeful, and aligned with user needs.
+|
+|        - From there, I built comprehensive dashboards and reports that clearly presented **KPIs** and performance metrics aligned with business objectives.
+|
+| - A key focus throughout was making insights easily understandable for all kinds of audiences, especially **non-technical stakeholders**, so that data-driven decisions could be made with clarity and confidence.
 
 
 ---
