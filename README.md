@@ -1,14 +1,89 @@
-- I primarily worked on developing deliverables such as presentations, dashboards, and reports using tools like **SQL**, **Python**, **Power BI**, **Excel**, **Google Sheets**, **PowerPoint**, **Figma**, and others as needed.
+-----
 
-    - My workflow usually started with exploring and understanding the data — assessing its quality, identifying any issues, and defining suitable approaches to address them.
 
-        - Once the data challenges were tackled and multiple sources were integrated where necessary, I moved on to the design phase.
+<table>
+  <tr>
+    <th>Responsibility</th>
+  </tr>
+  <tr>
+    <td>- Developed dashboards, reports, and presentations using SQL, Python, Power BI, Excel, Google Sheets, PowerPoint, and Figma.</td>
+  </tr>
+  <tr>
+    <td>- Explored datasets, assessed data quality, identified issues, and planned effective cleaning approaches.</td>
+  </tr>
+  <tr>
+    <td>- Integrated multiple data sources and resolved data-related challenges.</td>
+  </tr>
+  <tr>
+    <td>- Designed intuitive and visually consistent dashboard structures.</td>
+  </tr>
+  <tr>
+    <td>- Built KPI-focused dashboards aligned with business objectives.</td>
+  </tr>
+  <tr>
+    <td>- Communicated insights clearly for non-technical stakeholders.</td>
+  </tr>
+</table>
 
-            - I began by sketching and shaping the structure of dashboards and reports, ensuring they were not only visually appealing but also informative and purposeful.
 
-                - From there, I built comprehensive dashboards that clearly presented **KPIs** and performance metrics aligned with business objectives.
+-----
 
-                    - A key focus throughout was making insights easily understandable for **non-technical stakeholders**, so that data-driven decisions could be made with clarity and confidence.
+
+<div style="
+    border: 2px solid #222;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+">
+  - Developed dashboards, reports, and presentations using SQL, Python, Power BI, Excel, Google Sheets, PowerPoint, and Figma.<br><br>
+  - Explored datasets, assessed data quality, identified issues, and planned effective cleaning approaches.<br><br>
+  - Integrated multiple data sources and resolved data-related challenges.<br><br>
+  - Designed intuitive and visually consistent dashboard structures.<br><br>
+  - Built KPI-focused dashboards aligned with business objectives.<br><br>
+  - Communicated insights clearly for non-technical stakeholders.
+</div>
+
+
+----------
+
+
+<div style="
+    border: 1px solid #ddd;
+    padding: 22px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+    font-family: 'Segoe UI', sans-serif;
+    background: #fff;
+    line-height: 1.7;
+">
+  - Developed dashboards, reports, and presentations using SQL, Python, Power BI, Excel, Google Sheets, PowerPoint, and Figma.<br><br>
+  - Explored datasets, assessed data quality, identified issues, and planned effective cleaning approaches.<br><br>
+  - Integrated multiple data sources and resolved data-related challenges.<br><br>
+  - Designed intuitive and visually consistent dashboard structures.<br><br>
+  - Built KPI-focused dashboards aligned with business objectives.<br><br>
+  - Communicated insights clearly for non-technical stakeholders.
+</div>
+
+
+----------
+
+
+<div style="
+    border: 3px solid #000;
+    padding: 18px 22px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.6;
+">
+  - Developed dashboards, reports, and presentations using SQL, Python, Power BI, Excel, Google Sheets, PowerPoint, and Figma.<br><br>
+  - Explored datasets, assessed data quality, identified issues, and planned effective cleaning approaches.<br><br>
+  - Integrated multiple data sources and resolved data-related challenges.<br><br>
+  - Designed intuitive and visually consistent dashboard structures.<br><br>
+  - Built KPI-focused dashboards aligned with business objectives.<br><br>
+  - Communicated insights clearly for non-technical stakeholders.
+</div>
+
 
 
 
