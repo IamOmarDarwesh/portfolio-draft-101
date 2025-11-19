@@ -9,7 +9,7 @@
     border-radius: 10px;
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background: #0f3d0f;
+   
 ">
   - Developed dashboards, reports, and presentations using SQL, Python, Power BI, Excel, Google Sheets, PowerPoint, and Figma.<br><br>
   - Explored datasets, assessed data quality, identified issues, and planned effective cleaning approaches.<br><br>
