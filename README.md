@@ -14,17 +14,15 @@
 
 ---
 
-- I primarily worked on developing a wide range of deliverables—presentations, dashboards, and reports—using tools such as **SQL**, **Python**, **Power BI**, **Excel**, **Google Sheets**, **PowerPoint**, **Figma**, and others as needed.
+| Responsibilities |
+|------------------|
+| - I developed end-to-end data deliverables, including dashboards, reports, and presentations, using tools such as **SQL**, **Python**, **Power BI**, **Excel**, **Google Sheets**, **PowerPoint**, and **Figma**. |
+| - I began each project by exploring and assessing data quality, identifying issues, and determining the most effective approaches for cleaning and preparation. |
+| - After resolving data challenges and integrating multiple data sources, I transitioned into designing structured and intuitive reporting solutions. |
+| - I created clear, visually consistent dashboard layouts that balanced aesthetics with purposeful, insight-driven design. |
+| - I built comprehensive dashboards that highlighted key **KPIs** and performance metrics aligned with business goals. |
+| - I consistently tailored insights for **non-technical stakeholders**, ensuring clarity, accessibility, and confident data-driven decision-making. |
 
-    - My process usually began with exploring and understanding the data. This involved assessing its quality, identifying issues, and determining the most suitable approaches to address them.
-
-        - After resolving data challenges and integrating multiple data sources when needed, I transitioned into the design phase.
-
-            - I started by sketching and shaping the structure of the dashboards and reports, ensuring they were visually appealing, purposeful, and aligned with the narrative the data needed to convey.
-
-                - From there, I developed comprehensive dashboards that showcased key **KPIs** and performance metrics aligned with the organization’s business objectives.
-
-                    - Throughout the process, I focused on making insights clear and accessible for **non-technical stakeholders**, enabling confident and informed data-driven decision-making.
 
 
 ---
