@@ -29,7 +29,7 @@
     border-radius: 12px;
     box-shadow: 0 4px 15px rgba(0,0,0,0.08);
     font-family: 'Segoe UI', sans-serif;
-    background: #00ff41;
+    background: #1b1b1b;
     line-height: 1.7;
 ">
   - Developed dashboards, reports, and presentations using SQL, Python, Power BI, Excel, Google Sheets, PowerPoint, and Figma.<br><br>
