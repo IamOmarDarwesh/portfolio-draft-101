@@ -1,3 +1,71 @@
+------
+-----------
+
+<div style="
+    background: #0d0d0d;
+    color: #e6e6e6;
+    border: 2px solid #333;
+    padding: 24px;
+    border-radius: 14px;
+    font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+    line-height: 1.7;
+    font-size: 16px;
+">
+  - Developed dashboards, reports, and presentations using SQL, Python, Power BI, Excel, Google Sheets, PowerPoint, and Figma.<br><br>
+  - Explored datasets, assessed data quality, identified issues, and planned effective cleaning approaches.<br><br>
+  - Integrated multiple data sources and resolved data-related challenges.<br><br>
+  - Designed intuitive and visually consistent dashboard structures.<br><br>
+  - Built KPI-focused dashboards aligned with business objectives.<br><br>
+  - Communicated insights clearly for non-technical stakeholders.
+</div>
+
+
+-------------
+
+
+<style>
+  .responsibility-box {
+    background: #111;
+    color: #eaeaea;
+    border: 2px solid #444;
+    padding: 24px;
+    border-radius: 14px;
+    font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+    line-height: 1.7;
+    font-size: 1rem;
+    max-width: 900px;
+    margin: 20px auto;
+    box-sizing: border-box;
+  }
+
+  /* Responsive typography */
+  @media (max-width: 768px) {
+    .responsibility-box {
+      font-size: 0.95rem;
+      padding: 20px;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .responsibility-box {
+      font-size: 0.9rem;
+      padding: 16px;
+      border-radius: 10px;
+    }
+  }
+</style>
+
+<div class="responsibility-box">
+  - Developed dashboards, reports, and presentations using SQL, Python, Power BI, Excel, Google Sheets, PowerPoint, and Figma.<br><br>
+  - Explored datasets, assessed data quality, identified issues, and planned effective cleaning approaches.<br><br>
+  - Integrated multiple data sources and resolved data-related challenges.<br><br>
+  - Designed intuitive and visually consistent dashboard structures.<br><br>
+  - Built KPI-focused dashboards aligned with business objectives.<br><br>
+  - Communicated insights clearly for non-technical stakeholders.
+</div>
+
+
+
 -----
 
 
