@@ -1,20 +1,5 @@
 ---
 
-<div style="
-    border: 2px solid #222;
-    padding: 20px;
-    border-radius: 10px;
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-">
-  - Developed dashboards, reports, and presentations using SQL, Python, Power BI, Excel, Google Sheets, PowerPoint, and Figma.<br><br>
-  - Explored datasets, assessed data quality, identified issues, and planned effective cleaning approaches.<br><br>
-  - Integrated multiple data sources and resolved data-related challenges.<br><br>
-  - Designed intuitive and visually consistent dashboard structures.<br><br>
-  - Built KPI-focused dashboards aligned with business objectives.<br><br>
-  - Communicated insights clearly for non-technical stakeholders.
-</div>
-
 
 ---
 
