@@ -1,18 +1,6 @@
 
 ---
 
-<div style="
-    border: 1px solid #ddd;
-    padding: 22px;
-    border-radius: 12px;
-">
-  - Developed dashboards, reports, and presentations using SQL, Python, Power BI, Excel, Google Sheets, PowerPoint, and Figma.<br><br>
-  - Explored datasets, assessed data quality, identified issues, and planned effective cleaning approaches.<br><br>
-  - Integrated multiple data sources and resolved data-related challenges.<br><br>
-  - Designed intuitive and visually consistent dashboard structures.<br><br>
-  - Built KPI-focused dashboards aligned with business objectives.<br><br>
-  - Communicated insights clearly for non-technical stakeholders.
-</div>
 
 ----------
 
@@ -172,6 +160,22 @@ Let me introduce myself.
 |        - From there, I built comprehensive dashboards and reports that clearly presented **KPIs** and performance metrics aligned with business objectives.
 |
 | - A key focus throughout was making insights easily understandable for all kinds of audiences, especially **non-technical stakeholders**, so that data-driven decisions could be made with clarity and confidence.
+
+
+---
+
+<div style="
+    border: 1px solid #ddd;
+    padding: 22px;
+    border-radius: 12px;
+">
+  - Developed dashboards, reports, and presentations using SQL, Python, Power BI, Excel, Google Sheets, PowerPoint, and Figma.<br><br>
+  - Explored datasets, assessed data quality, identified issues, and planned effective cleaning approaches.<br><br>
+  - Integrated multiple data sources and resolved data-related challenges.<br><br>
+  - Designed intuitive and visually consistent dashboard structures.<br><br>
+  - Built KPI-focused dashboards aligned with business objectives.<br><br>
+  - Communicated insights clearly for non-technical stakeholders.
+</div>
 
 
 ---
