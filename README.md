@@ -6,9 +6,7 @@
     padding: 22px;
     border-radius: 12px;
     box-shadow: 0 4px 15px rgba(0,0,0,0.08);
-    font-family: 'Segoe UI', sans-serif;
     background: #222222;
-    line-height: 1.7;
 ">
   - Developed dashboards, reports, and presentations using SQL, Python, Power BI, Excel, Google Sheets, PowerPoint, and Figma.<br><br>
   - Explored datasets, assessed data quality, identified issues, and planned effective cleaning approaches.<br><br>
