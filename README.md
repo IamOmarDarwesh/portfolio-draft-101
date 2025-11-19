@@ -3,6 +3,8 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
 Hi there 👋, 
 
@@ -66,25 +68,11 @@ Let me introduce myself.
 ---
 ---
 
-> - I primarily worked on developing a variety of deliverables such as presentations, dashboards, and reports using tools like **SQL**, **Python**, **Power BI**, **Excel**, **Google Sheets**, **Google Slides**, **PowerPoint**, **Figma**, and others as needed.
->
->     - My workflow usually started with exploring and understanding the data — assessing its quality, identifying any issues, and defining suitable approaches to address them.
->
->     - Once the data challenges were resolved and multiple sources were integrated when necessary, I moved on to the design phase.
->
->         - I began by sketching and shaping the structure of dashboards and reports, ensuring they were visually appealing, clear, informative, purposeful, and aligned with user needs.
->         - Then I built comprehensive dashboards and reports that presented **KPIs** and performance metrics aligned with business objectives.
->
-> - A key focus throughout was making insights easily understandable for all audiences, especially **non-technical stakeholders**, enabling clarity and confidence in decision-making.
-
----
----
-
 <br>
 <br>
 <br>
 
-In **Jupyter Notebook**, **Google Colab** & **VS Code**,
+In **Jupyter Notebook**, **Google Colab** & **VS Code**, I performed data exploration, cleaning, analysis, and visualization using Python and others, as well as documented each step of the workflow.
 
 <br>
 
@@ -109,7 +97,7 @@ I used  **Excel**, **SQL**, **Python**, **Google Sheets** for Exploring and Clea
 <br>
 <br>
 
-I used **Figma**, **PowerPoint** and **draw.io** for Sketching and Designing a dashboard/report.
+I used **Figma**, **PowerPoint** and **draw.io** for Sketching and Designing wireframes and dashboards/reports, and visualizing report structures.
 
 <br>
 
@@ -144,11 +132,9 @@ A few examples of the type of visualizations I created are like these:
 
 ![survey-results-overview](assets/imgs-projects/maji-ndogo/survey-results-overview.png)
 
-
 <br>
 <br>
 <br>
-
 
 I know what you're thinking right now. You wanna see a couple of interactive dashboard/report samples.
 
@@ -408,4 +394,5 @@ My goal here is to build scalable, reliable, and maintainable data solutions tha
 <br>
 <br>
 <br>
-
+<br>
+<br>
