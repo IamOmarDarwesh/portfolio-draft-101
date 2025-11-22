@@ -23,8 +23,8 @@ Let me introduce myself.
 # Technical Experience
 <br>
 
-### **Data Science Trainee** 
-#### at ALX Africa, Egypt
+## **Data Science Trainee** 
+### at ALX Africa, Egypt
 *Duration: 1.5 years*
 
 ![ALX Afric](assets/imgs-experiences/alx-africa.jpg)
@@ -36,8 +36,8 @@ Let me introduce myself.
 <br>
 <br>
 
-### **Data Analysis Trainee** 
-#### at Information Technology Institute (ITI), Ministry of Communication and Information Technology (MCIT), Egypt
+## **Data Analysis Trainee** 
+### at Information Technology Institute (ITI), Ministry of Communication and Information Technology (MCIT), Egypt
 *Duration: 5 months*
 
 ![ITI Logo](assets/imgs-experiences/ITI.png)
@@ -169,11 +169,11 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 <br>
 
 
-### Call Center Performance Analytics Dashboard  
+## Call Center Performance Analytics Dashboard  
 
 > *Turning call center data into smarter decisions and happier customers.*  
 
-#### Tools Used:
+### Tools Used:
 
 `Power BI`, `DAX`, `Excel`, `Figma`
 
@@ -206,10 +206,10 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 <br>
 
 
-### Modern SQL Data Warehouse Building & Analytics  
+## Modern SQL Data Warehouse Building & Analytics  
 > *Building a scalable data foundation for smarter analytics and reliable insights through modern data architecture and SQL engineering.*
 
-#### Tools Used:
+### Tools Used:
 
 `SQL Server`, `SSMS`, `Draw.io`, `Notion`, `GitHub`
 
@@ -245,11 +245,11 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 <br>
 <br>
 
-### Problem-Solving and Transformative Data Analysis & Insights for Sustainable Solutions  
+## Problem-Solving and Transformative Data Analysis & Insights for Sustainable Solutions  
 > *Turning data into action —— using SQL, Power BI, and analytics to bring clean water, equity, and hope to millions.*  
 
 
-#### Tools:
+### Tools:
 
 
 
@@ -300,7 +300,7 @@ I worked very hard to get certified by Microsoft in **Power BI** and **Azure Clo
 <br>
 <br>
 
-### Microsoft Certified: Power BI Data Analyst:
+## Microsoft Certified: Power BI Data Analyst:
 
 [View Credential](https://learn.microsoft.com/en-us/users/iamomardarwesh/credentials/40ec254c1199ceed)
 
@@ -309,7 +309,7 @@ I worked very hard to get certified by Microsoft in **Power BI** and **Azure Clo
 <br>
 <br>
 
-### Microsoft Certified: Azure Data Fundamentals:
+## Microsoft Certified: Azure Data Fundamentals:
 
 [View Credential](https://learn.microsoft.com/en-us/users/iamomardarwesh/credentials/c10953d4ba96486c)
 
@@ -330,8 +330,9 @@ I joined Cairo University to pursue an academic degree in Computer Science, driv
 <br>
 <br>
 
-### Cairo University  
-**Postgraduate Degree in Computer Science**  
+## Cairo University  
+### Postgraduate Degree in Computer Science
+
 - *Graduated with **Excellent** Standing*  
 - **GPA:** 3.7 / 4.0  
 - *Graduation Year: 2025*
