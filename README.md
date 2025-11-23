@@ -261,9 +261,10 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 
 - Aligned with **UN Global Goal 6 – Clean Water and Sanitation**, part of the broader **UN Global Goals** (Sustainable Development Goals), which aim to ensure sustainable water and sanitation for all. This includes universal access to safe drinking water, ending open defecation, improving water quality, and promoting long-term, resilient water resource management.
 
-- Focused on **SDG 6.1.1 – Access to Safely Managed Drinking Water**, a key indicator under the **United Nations (UN) Sustainable Development Goals (SDGs)**, aiming to ensure clean and safe water for all in Maji Ndogo.
+- Focused on **SDG 6.1 – Access to Safely Managed Drinking Water**, a key indicator under the **United Nations (UN) Sustainable Development Goals (SDGs)**, aiming to ensure clean and safe water for all in Maji Ndogo.
 
-- More details on this goal can be found via the UN Global Goals platform: https://globalgoals.org/goals/6-clean-water-and-sanitation/
+- More details on this goal can be found via the **UN Global Goals platform**: [UN Global Goal 6 – Clean Water and Sanitation](https://globalgoals.org/goals/6-clean-water-and-sanitation/)
+
   
 - Connected to a **MySQL database** and conducted deep **SQL-based exploration, cleaning, and transformation** of water source data directly in **Jupyter Notebook**, with light Python support for additional processing.
   
