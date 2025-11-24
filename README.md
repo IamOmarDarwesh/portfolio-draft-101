@@ -389,7 +389,7 @@ My goal here is to build **scalable, reliable, and maintainable data solutions**
 
   <p>Thanks for visiting my Profile!</p>
   <p>If you like to connect, collaborate, or just say hello,</p>
-  <p>feel free to reach out through any of the links below:</p>
+  <p>feel free to reach out</p>
 
   
 <a href="https://github.com/IamOmarDarwesh"><img src="assets/imgs-icons-contacts/Github.svg" alt="GitHub" /></a>&nbsp;
