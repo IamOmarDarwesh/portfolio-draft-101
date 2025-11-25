@@ -394,6 +394,7 @@ My goal here is to build **scalable, reliable, and maintainable data solutions**
   
 <a href="https://github.com/IamOmarDarwesh"><img src="assets/imgs-icons-contacts/Github.svg" alt="GitHub" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/iamomardarwesh/"><img src="assets/imgs-icons-contacts/Linkedin.svg" alt="LinkedIn" /></a>&nbsp;
+<a href="https://medium.com/@IamOmarDarwesh"><img src="assets/imgs-icons-contacts/Medium.svg" alt="Medium" /></a>&nbsp;
 <a href="mailto:omarelsayeddarwesh@gmail.com"><img src="assets/imgs-icons-contacts/Gmail.svg" alt="Gmail" /></a>&nbsp;
 <a href="https://wa.me/201002949020"><img src="assets/imgs-icons-contacts/WhatsApp.svg" alt="WhatsApp" /></a>
 
