@@ -377,6 +377,14 @@ Working to get comfortable with the full data pipeline, with a particular focus 
 
 
 
+[![dlthub logo](assets/dlthub-logo.png)](#)
+[![Spark logo](assets/spark-logo.png)](#)
+
+
+[![TALL Black](assets/TALL-Black-on-Transparent.png)](#)
+[![TALL White](assets/TALL-White-on-Transparent.png)](#)
+[![WIDE Black](assets/WIDE-Black-on-Transparent.png)](#)
+[![WIDE White](assets/WIDE-White-on-Transparent.png)](#)
 
 
 
