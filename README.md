@@ -356,7 +356,7 @@ I joined Cairo University to pursue an academic degree in Computer Science, driv
 You might be wondering what I’ve been up to lately.
 
 
-I’ve been focused on learning/mastering tools like **Fivetran**, **Airbyte**, **Airflow**, **dbt**, **BigQuery**, and **Metabase** through hands-on experience.
+I’ve been focused on learning/mastering tools like **Fivetran**, **Airbyte**, **dbt**, **BigQuery**, **Kestra**, and **Metabase** through hands-on experience.
 
 
 Working to get comfortable with the full data pipeline, with a particular focus on mastering **data transformation**, alongside **data ingestion**, **warehousing**, **orchestration**, and **analytics**.
@@ -365,13 +365,13 @@ Working to get comfortable with the full data pipeline, with a particular focus 
 
 [![Fivetran](assets/imgs-tools&technologies/Fivetran.svg)](https://www.fivetran.com/)
 [![Airbyte](assets/imgs-tools&technologies/airbyte.png)](https://www.airbyte.com/)
-
-[![Airflow](assets/imgs-tools&technologies/Airflow.png)](https://airflow.apache.org/)
-
 [![Dbt](assets/imgs-tools&technologies/Dbt.svg)](https://www.getdbt.com/)
 [![BigQuery](assets/imgs-tools&technologies/bigquery.svg)](https://cloud.google.com/bigquery)
-
+[![Kestra Dark Logo](assets/Kestra.full.logo.dark.png)](#)
 [![Metabase](assets/imgs-tools&technologies/metabase.svg)](https://www.metabase.com/)
+
+
+
 
 <br>
 
