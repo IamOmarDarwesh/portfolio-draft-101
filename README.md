@@ -371,8 +371,12 @@ Working to get comfortable with the full data pipeline, with a particular focus 
 [![Metabase](assets/imgs-tools&technologies/metabase.svg)](https://www.metabase.com/)
 
 
-[![Docker SVG](assets/docker.svg)](#)
 [![Docker PNG](assets/docker-.png)](#)
+
+
+[![PostgreSQL 1](assets/postgresql(1).svg)](#)
+[![PostgreSQL](assets/postgresql.svg)](#)
+[![PostgreSQL Wordmark](assets/postgresql-plain-wordmark(1).svg)](#)
 
 
 <br>
