@@ -366,20 +366,25 @@ Working to get comfortable with the full data pipeline, with a particular focus 
 
 <br>
 
-[![Docker PNG](assets/docker-.png)](#)
+[![Docker](assets/imgs-tools&technologies/docker.png)](https://www.docker.com/)
 [![Dbt](assets/imgs-tools&technologies/Dbt.svg)](https://www.getdbt.com/)
 [![BigQuery](assets/imgs-tools&technologies/bigquery.svg)](https://cloud.google.com/bigquery)
-[![PostgreSQL 1](assets/postgresql(1).svg)](#)
+[![PostgreSQL](assets/imgs-tools&technologies/postgresql.svg)](https://www.postgresql.org/)
 
-[![dlthub logo](assets/dlthub-logo.png)](#)
-[![Kestra Dark Logo](assets/Kestra.full.logo.dark.png)](#)
+<br>
+
+[![dltHub](assets/imgs-tools&technologies/dlthub.png)](https://dlthub.com/)
+
+<br>
+
+[![Kestra](assets/imgs-tools&technologies/Kestra.png)](https://kestra.io/)
+
+<br>
+
 [![Metabase](assets/imgs-tools&technologies/metabase.svg)](https://www.metabase.com/)
 
-[![WIDE Black](assets/WIDE-Black-on-Transparent.png)](#)
-[![Spark logo](assets/spark-logo.png)](#)
-
-
-
+[![Kafka](assets/imgs-tools&technologies/Kafka.png)](https://kafka.apache.org/)
+[![Spark](assets/imgs-tools&technologies/spark.png)](https://spark.apache.org/)
 
 
 
