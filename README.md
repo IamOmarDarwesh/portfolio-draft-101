@@ -367,19 +367,16 @@ Working to get comfortable with the full data pipeline, with a particular focus 
 <br>
 
 [![Docker PNG](assets/docker-.png)](#)
-[![Airbyte](assets/imgs-tools&technologies/airbyte.png)](https://www.airbyte.com/)
 [![Dbt](assets/imgs-tools&technologies/Dbt.svg)](https://www.getdbt.com/)
 [![BigQuery](assets/imgs-tools&technologies/bigquery.svg)](https://cloud.google.com/bigquery)
 [![PostgreSQL 1](assets/postgresql(1).svg)](#)
+
+[![dlthub logo](assets/dlthub-logo.png)](#)
 [![Kestra Dark Logo](assets/Kestra.full.logo.dark.png)](#)
 [![Metabase](assets/imgs-tools&technologies/metabase.svg)](https://www.metabase.com/)
 
-
-
-[![Fivetran](assets/imgs-tools&technologies/Fivetran.svg)](https://www.fivetran.com/)
 [![WIDE Black](assets/WIDE-Black-on-Transparent.png)](#)
 [![Spark logo](assets/spark-logo.png)](#)
-[![dlthub logo](assets/dlthub-logo.png)](#)
 
 
 
