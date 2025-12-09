@@ -105,14 +105,11 @@ I used **Figma**, **draw.io**, **PowerPoint** and **Google Slides** for Sketchin
 
 <br>
 
-[![Figma](assets/imgs-tools&technologies/figma.png)](https://www.figma.com/)
+[![Figma](assets/imgs-tools&technologies/figmaa.png)](https://www.figma.com/)
 &nbsp;&nbsp;&nbsp;&nbsp; [![draw.io](assets/imgs-tools&technologies/draw-io.svg)](https://www.diagrams.net/)
 &nbsp;&nbsp;&nbsp;&nbsp; [![PowerPoint](assets/imgs-tools&technologies/PowerPoint.svg)](https://www.microsoft.com/microsoft-365/powerpoint)
 &nbsp;&nbsp;&nbsp;&nbsp; [![Google Slides](assets/imgs-tools&technologies/Google-Slides.png)](https://www.google.com/slides)
 
-
-[![Figma](assets/imgs-tools&technologies/figgma.png)](https://www.figma.com/)
-[![Figma](assets/imgs-tools&technologies/figmaa.png)](https://www.figma.com/)
 
 
 <br>
