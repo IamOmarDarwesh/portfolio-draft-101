@@ -111,6 +111,10 @@ I used **Figma**, **draw.io**, **PowerPoint** and **Google Slides** for Sketchin
 &nbsp;&nbsp;&nbsp;&nbsp; [![Google Slides](assets/imgs-tools&technologies/Google-Slides.png)](https://www.google.com/slides)
 
 
+[![Figma](assets/imgs-tools&technologies/figgma.png)](https://www.figma.com/)
+[![Figma](assets/imgs-tools&technologies/figmaa.png)](https://www.figma.com/)
+
+
 <br>
 <br>
 <br>
