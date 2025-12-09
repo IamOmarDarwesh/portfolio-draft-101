@@ -101,13 +101,15 @@ I used  **Excel**, **SQL**, **Python**, **Google Sheets** for Exploring and Clea
 <br>
 <br>
 
-I used **Figma**, **PowerPoint** and **draw.io** for Sketching and Designing wireframes and dashboards/reports, and visualizing report structures.
+I used **Figma**, **draw.io**, **PowerPoint** and **Google Slides** for Sketching and Designing wireframes and dashboards/reports, visualizing report structures, and communicating insights.
 
 <br>
 
 [![Figma](assets/imgs-tools&technologies/figma.png)](https://www.figma.com/)
-[![PowerPoint](assets/imgs-tools&technologies/powerpoint.png)](https://www.microsoft.com/microsoft-365/powerpoint)
-[![draw.io](assets/imgs-tools&technologies/draw-io.svg)](https://www.diagrams.net/)
+&nbsp;&nbsp;&nbsp;&nbsp; [![draw.io](assets/imgs-tools&technologies/draw-io.svg)](https://www.diagrams.net/)
+&nbsp;&nbsp;&nbsp;&nbsp; [![PowerPoint](assets/imgs-tools&technologies/powerpoint.png)](https://www.microsoft.com/microsoft-365/powerpoint)
+&nbsp;&nbsp;&nbsp;&nbsp; [![Google Slides](assets/imgs-tools&technologies/Google-Slides.png)](https://www.google.com/slides)
+
 
 <br>
 <br>
