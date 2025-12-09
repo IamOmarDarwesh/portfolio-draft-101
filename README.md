@@ -110,6 +110,7 @@ I used **Figma**, **draw.io**, **PowerPoint** and **Google Slides** for Sketchin
 &nbsp;&nbsp;&nbsp;&nbsp; [![PowerPoint](assets/imgs-tools&technologies/powerpoint.png)](https://www.microsoft.com/microsoft-365/powerpoint)
 &nbsp;&nbsp;&nbsp;&nbsp; [![Google Slides](assets/imgs-tools&technologies/Google-Slides.png)](https://www.google.com/slides)
 
+[![PowerPoint](assets/imgs-tools&technologies/PowerPoint.svg)](https://www.microsoft.com/microsoft-365/powerpoint)
 
 <br>
 <br>
