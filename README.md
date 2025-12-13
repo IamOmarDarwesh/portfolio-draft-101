@@ -13,6 +13,7 @@ Let me introduce myself.
 &nbsp;&nbsp;&nbsp;&nbsp; I'm Omar Darwesh.
 
 &nbsp;&nbsp;&nbsp;&nbsp; I'm a Computer Science postgraduate with an analytical mindset and a deep enthusiasm for 
+
 &nbsp;&nbsp;&nbsp;&nbsp; **Data Analysis** & **Analytics Engineering**.
 
 <br>
